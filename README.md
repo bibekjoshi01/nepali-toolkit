@@ -7,5 +7,5 @@ Python package for Nepali phone, postal code, PAN, citizenship, and date validat
 ## Installation
 
 ```bash
-pip install nepali-datetime
+pip install nepali-toolkit
 ```
