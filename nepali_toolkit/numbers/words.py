@@ -6,7 +6,7 @@ with open(os.path.join(_dir, "data", "number_words_map.json"), encoding="utf-8")
     number_words = json.load(f)
 
 # Define common place values
-UNITS = [(10000000, "करोड"), (100000, "लाख"), (1000, "हजार"), (100, "सय")]
+UNITS = [(10**7, "करोड"), (10**5, "लाख"), (10**3, "हजार"), (100, "सय")]
 
 
 def number_to_nepali_words(number: int | str) -> str:
