@@ -1,8 +1,11 @@
 # Nepali Toolkit
 
-- All Required Nepali Utilities for your python application.
+**Nepali Toolkit** is a Python package that provides a collection of utilities for working with Nepali data, calender, locations, digits, dates, and more.
 
-Python package for Nepali phone, postal code, PAN, citizenship, and date validations.
+## Features
+
+- Convert between Nepali and English digits
+- Work with Nepali locations, districts, municipalities, wards.
 
 ## Installation
 

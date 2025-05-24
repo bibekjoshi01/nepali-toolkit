@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nepali-toolkit",
-    version="0.1.0",
+    version="0.1.1",
     author="Bibek Joshi",
     author_email="bibekjoshi34@gmail.com",
     description="NepaliToolkit offers robust tools for validating Nepali phone numbers, postal codes, PANs, citizenship IDs, date formats, text normalization, Nepali calendar support, and administrative location data.",
