@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name_en": "Koshi Province",
+    "name_np": "कोशी प्रदेश",
+    "headquarter_en": "Biratnagar",
+    "headquarter_np": "बिराटनगर",
+    "area_sq_km": "25906",
+    "website": "https://ocmcm.koshi.gov.np/"
+  },
+  {
+    "id": 2,
+    "name_en": "Madhesh Province",
+    "name_np": "मधेश प्रदेश",
+    "headquarter_en": "Janakpur",
+    "headquarter_np": "जनकपुर",
+    "area_sq_km": "9661",
+    "website": "https://ocmcm.madhesh.gov.np/"
+  },
+  {
+    "id": 3,
+    "name_en": "Bagamati Province",
+    "name_np": "बागमती प्रदेश",
+    "headquarter_en": "Hetauda",
+    "headquarter_np": "हेटौडा",
+    "area_sq_km": "20300",
+    "website": "https://ocmcm.bagamati.gov.np/"
+  },
+  {
+    "id": 4,
+    "name_en": "Gandaki Province",
+    "name_np": "गण्डकी प्रदेश",
+    "headquarter_en": "Pokhara",
+    "headquarter_np": "पोखरा",
+    "area_sq_km": "21856",
+    "website": "https://ocmcm.gandaki.gov.np/"
+  },
+  {
+    "id": 5,
+    "name_en": "Lumbini Province",
+    "name_np": "लुम्बिनी प्रदेश",
+    "headquarter_en": "Deukhuri",
+    "headquarter_np": "देउखुरी",
+    "area_sq_km": "19707",
+    "website": "https://ocmcm.lumbini.gov.np/"
+  },
+  {
+    "id": 6,
+    "name_en": "Karnali Province",
+    "name_np": "कर्णाली प्रदेश",
+    "headquarter_en": "Birendranagar",
+    "headquarter_np": "बिरेन्द्रनगर",
+    "area_sq_km": "30213",
+    "website": "https://ocmcmkarnali.gov.np/"
+  },
+  {
+    "id": 7,
+    "name_en": "Sudurpashchim Province",
+    "name_np": "सुदूरपश्चिम प्रदेश",
+    "headquarter_en": "Godawari",
+    "headquarter_np": "गोदावरी",
+    "area_sq_km": "19539",
+    "website": "https://ocmcm.sudurpashchim.gov.np/"
+  }
+]

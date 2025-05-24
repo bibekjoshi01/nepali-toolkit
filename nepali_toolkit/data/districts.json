@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "province_id": 1,
+    "name_en": "Bhojpur",
+    "name_np": "भोजपुर",
+    "area_sq_km": "1507",
+    "website": "https://www.ddcbhojpur.gov.np",
+    "headquarter_en": "Bhojpur",
+    "headquarter_np": "भोजपुर"
+  },
+  {
+    "id": 2,
+    "province_id": 1,
+    "name_en": "Dhankuta",
+    "name_np": "धनकुटा",
+    "area_sq_km": "892",
+    "website": "https://www.ddcdhankuta.gov.np",
+    "headquarter_en": "Dhankuta",
+    "headquarter_np": "धनकुटा"
+  },
+  {
+    "id": 3,
+    "province_id": 1,
+    "name_en": "Ilam",
+    "name_np": "इलाम",
+    "area_sq_km": "1703",
+    "website": "https://www.ddcilam.gov.np",
+    "headquarter_en": "Ilam",
+    "headquarter_np": "ईलाम"
+  },
+  {
+    "id": 4,
+    "province_id": 1,
+    "name_en": "Jhapa",
+    "name_np": "झापा",
+    "area_sq_km": "1606",
+    "website": "https://www.ddcjhapa.gov.np",
+    "headquarter_en": "Bhadrapur",
+    "headquarter_np": "झापा"
+  },
+  {
+    "id": 5,
+    "province_id": 1,
+    "name_en": "Khotang",
+    "name_np": "खोटाँग",
+    "area_sq_km": "1591",
+    "website": "https://www.dcckhotang.gov.np",
+    "headquarter_en": "Diktel",
+    "headquarter_np": "खोटांग"
+  },
+  {
+    "id": 6,
+    "province_id": 1,
+    "name_en": "Morang",
+    "name_np": "मोरंग",
+    "area_sq_km": "1855",
+    "website": "https://www.ddcmorang.gov.np",
+    "headquarter_en": "Biratnagar",
+    "headquarter_np": "मोरंग"
+  },
+  {
+    "id": 7,
+    "province_id": 1,
+    "name_en": "Okhaldhunga",
+    "name_np": "ओखलढुंगा",
+    "area_sq_km": "1074",
+    "website": "https://www.dccokhaldhunga.gov.np/en",
+    "headquarter_en": "Siddhicharan",
+    "headquarter_np": "सिद्धिचरण"
+  },
+  {
+    "id": 8,
+    "province_id": 1,
+    "name_en": "Pachthar",
+    "name_np": "पांचथर",
+    "area_sq_km": "1241",
+    "website": "https://www.ddcpanchthar.gov.np",
+    "headquarter_en": "Phidim",
+    "headquarter_np": "फिदिम"
+  },
+  {
+    "id": 9,
+    "province_id": 1,
+    "name_en": "Sankhuwasabha",
+    "name_np": "संखुवासभा",
+    "area_sq_km": "3480",
+    "website": "https://www.ddcsankhuwasabha.gov.np",
+    "headquarter_en": "Khandbari",
+    "headquarter_np": "खाँदबारी"
+  },
+  {
+    "id": 10,
+    "province_id": 1,
+    "name_en": "Solukhumbu",
+    "name_np": "सोलुखुम्बू",
+    "area_sq_km": "3312",
+    "website": "https://www.ddcsolukhumbu.gov.np",
+    "headquarter_en": "Salleri",
+    "headquarter_np": "सल्लेरी"
+  },
+  {
+    "id": 11,
+    "province_id": 1,
+    "name_en": "Sunsari",
+    "name_np": "सुनसरी",
+    "area_sq_km": "1257",
+    "website": "https://www.ddcsunsari.gov.np",
+    "headquarter_en": "Inaruwa",
+    "headquarter_np": "इनरुवा"
+  },
+  {
+    "id": 12,
+    "province_id": 1,
+    "name_en": "Taplejung",
+    "name_np": "ताप्लेजुंग",
+    "area_sq_km": "3646",
+    "website": "https://www.ddctaplejung.gov.np",
+    "headquarter_en": "Taplejung",
+    "headquarter_np": "ताप्लेजुंग"
+  },
+  {
+    "id": 13,
+    "province_id": 1,
+    "name_en": "Terhathum",
+    "name_np": "तेह्रथुम",
+    "area_sq_km": "679",
+    "website": "https://www.ddctehrathum.gov.np",
+    "headquarter_en": "Myanglung",
+    "headquarter_np": "म्यांगलुङ्ग"
+  },
+  {
+    "id": 14,
+    "province_id": 1,
+    "name_en": "Udayapur",
+    "name_np": "उदयपुर",
+    "area_sq_km": "2063",
+    "website": "https://www.ddcudayapur.gov.np",
+    "headquarter_en": "Gaighat",
+    "headquarter_np": "गाईघाट"
+  },
+  {
+    "id": 15,
+    "province_id": 2,
+    "name_en": "Parsa",
+    "name_np": "पर्सा",
+    "area_sq_km": "1353",
+    "website": "https://dccparsa.gov.np/",
+    "headquarter_en": "Birgunj",
+    "headquarter_np": "विरगंज"
+  },
+  {
+    "id": 16,
+    "province_id": 2,
+    "name_en": "Bara",
+    "name_np": "बारा",
+    "area_sq_km": "1190",
+    "website": "https://dccbara.gov.np/",
+    "headquarter_en": "Kalaiya",
+    "headquarter_np": "कलैया"
+  },
+  {
+    "id": 17,
+    "province_id": 2,
+    "name_en": "Rautahat",
+    "name_np": "रौतहट",
+    "area_sq_km": "1126",
+    "website": "https://dccrautahat.gov.np/",
+    "headquarter_en": "Gaur",
+    "headquarter_np": "गौर"
+  },
+  {
+    "id": 18,
+    "province_id": 2,
+    "name_en": "Sarlahi",
+    "name_np": "सर्लाही",
+    "area_sq_km": "1259",
+    "website": "https://dccsarlahi.gov.np/",
+    "headquarter_en": "Malangawa",
+    "headquarter_np": "मलंगवा"
+  },
+  {
+    "id": 19,
+    "province_id": 2,
+    "name_en": "Siraha",
+    "name_np": "सिराहा",
+    "area_sq_km": "1188",
+    "website": "https://dccsiraha.gov.np/",
+    "headquarter_en": "Siraha",
+    "headquarter_np": "सिरहा"
+  },
+  {
+    "id": 20,
+    "province_id": 2,
+    "name_en": "Dhanusha",
+    "name_np": "धनुषा",
+    "area_sq_km": "1180",
+    "website": "https://dccdhanusha.gov.np/",
+    "headquarter_en": "Janakpur",
+    "headquarter_np": "जनकपुर"
+  },
+  {
+    "id": 21,
+    "province_id": 2,
+    "name_en": "Saptari",
+    "name_np": "सप्तरी",
+    "area_sq_km": "1363",
+    "website": "https://dccsaptari.gov.np/",
+    "headquarter_en": "Rajbiraj",
+    "headquarter_np": "राजविराज"
+  },
+  {
+    "id": 22,
+    "province_id": 2,
+    "name_en": "Mahottari",
+    "name_np": "महोत्तरी",
+    "area_sq_km": "1002",
+    "website": "https://dccmahottari.gov.np/",
+    "headquarter_en": "Jaleshwar",
+    "headquarter_np": "जलेश्वर"
+  },
+  {
+    "id": 23,
+    "province_id": 3,
+    "name_en": "Bhaktapur",
+    "name_np": "भक्तपुर",
+    "area_sq_km": "119",
+    "website": "https://dccbhaktapur.gov.np/",
+    "headquarter_en": "Bhaktapur",
+    "headquarter_np": "भक्तपुर"
+  },
+  {
+    "id": 24,
+    "province_id": 3,
+    "name_en": "Chitwan",
+    "name_np": "चितवन",
+    "area_sq_km": "2218",
+    "website": "https://dccchitwan.gov.np/",
+    "headquarter_en": "Bharatpur",
+    "headquarter_np": "भरतपुर"
+  },
+  {
+    "id": 25,
+    "province_id": 3,
+    "name_en": "Dhading",
+    "name_np": "धादिंङ्ग",
+    "area_sq_km": "1926",
+    "website": "https://dccdhading.gov.np/",
+    "headquarter_en": "Nilkantha",
+    "headquarter_np": "निलकण्ठ"
+  },
+  {
+    "id": 26,
+    "province_id": 3,
+    "name_en": "Dolakha",
+    "name_np": "दोलखा",
+    "area_sq_km": "2191",
+    "website": "https://dccdolakha.gov.np/",
+    "headquarter_en": "Bhimeshwar",
+    "headquarter_np": "भिमेश्वर"
+  },
+  {
+    "id": 27,
+    "province_id": 3,
+    "name_en": "Kathmandu",
+    "name_np": "काठमाडौँ",
+    "area_sq_km": "395",
+    "website": "https://dccktm.gov.np/",
+    "headquarter_en": "Kathmandu",
+    "headquarter_np": "काठमाडौँ"
+  },
+  {
+    "id": 28,
+    "province_id": 3,
+    "name_en": "Kavrepalanchok",
+    "name_np": "काभ्रेपलान्चोक",
+    "area_sq_km": "1396",
+    "website": "https://dcckavre.gov.np/",
+    "headquarter_en": "Dhulikhel",
+    "headquarter_np": "धुलिखेल"
+  },
+  {
+    "id": 29,
+    "province_id": 3,
+    "name_en": "Lalitpur",
+    "name_np": "ललितपुर",
+    "area_sq_km": "385",
+    "website": "https://dcclalitpur.gov.np/",
+    "headquarter_en": "Lalitpur",
+    "headquarter_np": "ललितपुर"
+  },
+  {
+    "id": 30,
+    "province_id": 3,
+    "name_en": "Makwanpur",
+    "name_np": "मकवानपुर",
+    "area_sq_km": "2426",
+    "website": "https://dccmakwanpur.gov.np/",
+    "headquarter_en": "Hetauda",
+    "headquarter_np": "हेटौडा"
+  },
+  {
+    "id": 31,
+    "province_id": 3,
+    "name_en": "Nuwakot",
+    "name_np": "नुवाकोट",
+    "area_sq_km": "1121",
+    "website": "https://dccnuwakot.gov.np/",
+    "headquarter_en": "Bidur",
+    "headquarter_np": "बिदुर"
+  },
+  {
+    "id": 32,
+    "province_id": 3,
+    "name_en": "Ramechap",
+    "name_np": "रामेछाप",
+    "area_sq_km": "1546",
+    "website": "https://dccramechhap.gov.np/",
+    "headquarter_en": "Manthali",
+    "headquarter_np": "मन्थली"
+  },
+  {
+    "id": 33,
+    "province_id": 3,
+    "name_en": "Rasuwa",
+    "name_np": "रसुवा",
+    "area_sq_km": "1544",
+    "website": "https://dccrasuwa.gov.np/",
+    "headquarter_en": "Dhunche",
+    "headquarter_np": "धुन्चे"
+  },
+  {
+    "id": 34,
+    "province_id": 3,
+    "name_en": "Sindhuli",
+    "name_np": "सिन्धुली",
+    "area_sq_km": "2491",
+    "website": "https://dccsindhuli.gov.np/",
+    "headquarter_en": "Kamalamai",
+    "headquarter_np": "कमलामाई"
+  },
+  {
+    "id": 35,
+    "province_id": 3,
+    "name_en": "Sindhupalchok",
+    "name_np": "सिन्धुपाल्चोक",
+    "area_sq_km": "2542",
+    "website": "https://dccsindhupalchowk.gov.np/",
+    "headquarter_en": "Chautara",
+    "headquarter_np": "चौतारा"
+  },
+  {
+    "id": 36,
+    "province_id": 4,
+    "name_en": "Baglung",
+    "name_np": "बागलुङ",
+    "area_sq_km": "1784",
+    "website": "https://dccbaglung.gov.np/",
+    "headquarter_en": "Baglung",
+    "headquarter_np": "बाग्लुंग"
+  },
+  {
+    "id": 37,
+    "province_id": 4,
+    "name_en": "Gorkha",
+    "name_np": "गोरखा",
+    "area_sq_km": "3610",
+    "website": "https://dccgorkha.gov.np/",
+    "headquarter_en": "Gorkha",
+    "headquarter_np": "गोर्खा"
+  },
+  {
+    "id": 38,
+    "province_id": 4,
+    "name_en": "Kaski",
+    "name_np": "कास्की",
+    "area_sq_km": "2017",
+    "website": "https://dcckaski.gov.np/",
+    "headquarter_en": "Pokhara",
+    "headquarter_np": "पोखरा"
+  },
+  {
+    "id": 39,
+    "province_id": 4,
+    "name_en": "Lamjung",
+    "name_np": "लमजुङ",
+    "area_sq_km": "1692",
+    "website": "https://dcclamjung.gov.np/",
+    "headquarter_en": "Besisahar",
+    "headquarter_np": "बेशीसहर"
+  },
+  {
+    "id": 40,
+    "province_id": 4,
+    "name_en": "Manang",
+    "name_np": "मनाङ",
+    "area_sq_km": "2246",
+    "website": "https://dccmanang.gov.np/",
+    "headquarter_en": "Chame",
+    "headquarter_np": "चामे"
+  },
+  {
+    "id": 41,
+    "province_id": 4,
+    "name_en": "Mustang",
+    "name_np": "मुस्ताङ",
+    "area_sq_km": "3573",
+    "website": "https://dccmustang.gov.np/",
+    "headquarter_en": "Jomsom",
+    "headquarter_np": "जोमसोम"
+  },
+  {
+    "id": 42,
+    "province_id": 4,
+    "name_en": "Myagdi",
+    "name_np": "म्याग्दी",
+    "area_sq_km": "2297",
+    "website": "https://dccmyagdi.gov.np/",
+    "headquarter_en": "Beni",
+    "headquarter_np": "बेनी"
+  },
+  {
+    "id": 43,
+    "province_id": 4,
+    "name_en": "Nawalpur",
+    "name_np": "नवलपुर",
+    "area_sq_km": "1043.1",
+    "website": "https://dccnawalparasi.gov.np/",
+    "headquarter_en": "Kawasoti",
+    "headquarter_np": "कावासोती"
+  },
+  {
+    "id": 44,
+    "province_id": 4,
+    "name_en": "Parwat",
+    "name_np": "पर्वत",
+    "area_sq_km": "494",
+    "website": "https://dccparbat.gov.np/",
+    "headquarter_en": "Kusma",
+    "headquarter_np": "कुस्मा"
+  },
+  {
+    "id": 45,
+    "province_id": 4,
+    "name_en": "Syangja",
+    "name_np": "स्याङग्जा",
+    "area_sq_km": "1164",
+    "website": "https://dccsyangja.gov.np/",
+    "headquarter_en": "Putalibazar",
+    "headquarter_np": "पुतलीबजार"
+  },
+  {
+    "id": 46,
+    "province_id": 4,
+    "name_en": "Tanahun",
+    "name_np": "तनहुँ",
+    "area_sq_km": "1546",
+    "website": "https://dcctanahun.gov.np/",
+    "headquarter_en": "Damauli",
+    "headquarter_np": "दमौली"
+  },
+  {
+    "id": 47,
+    "province_id": 5,
+    "name_en": "Kapilvastu",
+    "name_np": "कपिलवस्तु",
+    "area_sq_km": "1738",
+    "website": "https://dcckapilvastu.gov.np/",
+    "headquarter_en": "Taulihawa",
+    "headquarter_np": "तौलिहवा"
+  },
+  {
+    "id": 48,
+    "province_id": 5,
+    "name_en": "Parasi",
+    "name_np": "परासी",
+    "area_sq_km": "634.88",
+    "website": "https://dccnawalparasi.gov.np/",
+    "headquarter_en": "Ramgram",
+    "headquarter_np": "रामग्राम"
+  },
+  {
+    "id": 49,
+    "province_id": 5,
+    "name_en": "Rupandehi",
+    "name_np": "रुपन्देही",
+    "area_sq_km": "1360",
+    "website": "https://dccrupandehi.gov.np/",
+    "headquarter_en": "Siddharthanagar",
+    "headquarter_np": "सिद्धार्थनगर"
+  },
+  {
+    "id": 50,
+    "province_id": 5,
+    "name_en": "Arghakhanchi",
+    "name_np": "अर्घाखाँची",
+    "area_sq_km": "1193",
+    "website": "https://dccargakhanchi.gov.np/",
+    "headquarter_en": "Sandhikharka",
+    "headquarter_np": "सन्धिखर्क"
+  },
+  {
+    "id": 51,
+    "province_id": 5,
+    "name_en": "Gulmi",
+    "name_np": "गुल्मी",
+    "area_sq_km": "1149",
+    "website": "https://dccgulmi.gov.np/",
+    "headquarter_en": "Tamghas",
+    "headquarter_np": "तम्घास"
+  },
+  {
+    "id": 52,
+    "province_id": 5,
+    "name_en": "Palpa",
+    "name_np": "पाल्पा",
+    "area_sq_km": "1373",
+    "website": "https://dccpalpa.gov.np/",
+    "headquarter_en": "Tansen",
+    "headquarter_np": "तानसेन"
+  },
+  {
+    "id": 53,
+    "province_id": 5,
+    "name_en": "Dang",
+    "name_np": "दाङ",
+    "area_sq_km": "2955",
+    "website": "https://dccdang.gov.np/",
+    "headquarter_en": "Ghorahi",
+    "headquarter_np": "घोराही"
+  },
+  {
+    "id": 54,
+    "province_id": 5,
+    "name_en": "Pyuthan",
+    "name_np": "प्युठान",
+    "area_sq_km": "1309",
+    "website": "https://dccpyuthan.gov.np/",
+    "headquarter_en": "Pyuthan",
+    "headquarter_np": "प्युठान"
+  },
+  {
+    "id": 55,
+    "province_id": 5,
+    "name_en": "Rolpa",
+    "name_np": "रोल्पा",
+    "area_sq_km": "1879",
+    "website": "https://dccrolpa.gov.np/",
+    "headquarter_en": "Liwang",
+    "headquarter_np": "लिवाङ्ग"
+  },
+  {
+    "id": 56,
+    "province_id": 5,
+    "name_en": "Eastern Rukum",
+    "name_np": "पूर्वी रूकुम",
+    "area_sq_km": "1161.13",
+    "website": "https://dccrukum.gov.np/",
+    "headquarter_en": "Rukumkot",
+    "headquarter_np": "रुकुमकोट"
+  },
+  {
+    "id": 57,
+    "province_id": 5,
+    "name_en": "Banke",
+    "name_np": "बाँके",
+    "area_sq_km": "2337",
+    "website": "https://dccbanke.gov.np/",
+    "headquarter_en": "Nepalganj",
+    "headquarter_np": "नेपालगंज"
+  },
+  {
+    "id": 58,
+    "province_id": 5,
+    "name_en": "Bardiya",
+    "name_np": "बर्दिया",
+    "area_sq_km": "2025",
+    "website": "https://dccbardiya.gov.np/",
+    "headquarter_en": "Gulariya",
+    "headquarter_np": "गुलरिया"
+  },
+  {
+    "id": 59,
+    "province_id": 6,
+    "name_en": "Western Rukum",
+    "name_np": "रुकुम पश्चिम",
+    "area_sq_km": "1213.49",
+    "website": "https://dccrukum.gov.np/",
+    "headquarter_en": "Musikot",
+    "headquarter_np": "मुसिकोट"
+  },
+  {
+    "id": 60,
+    "province_id": 6,
+    "name_en": "Salyan",
+    "name_np": "सल्यान",
+    "area_sq_km": "1462",
+    "website": "https://dccsalyan.gov.np/",
+    "headquarter_en": "Salyan",
+    "headquarter_np": "सल्यान"
+  },
+  {
+    "id": 61,
+    "province_id": 6,
+    "name_en": "Dolpa",
+    "name_np": "डोल्पा",
+    "area_sq_km": "7889",
+    "website": "https://dccdolpa.gov.np/",
+    "headquarter_en": "Dunai",
+    "headquarter_np": "दुनै"
+  },
+  {
+    "id": 62,
+    "province_id": 6,
+    "name_en": "Humla",
+    "name_np": "हुम्ला",
+    "area_sq_km": "5655",
+    "website": "https://dcchumla.gov.np/",
+    "headquarter_en": "Simikot",
+    "headquarter_np": "सिमिकोट"
+  },
+  {
+    "id": 63,
+    "province_id": 6,
+    "name_en": "Jumla",
+    "name_np": "जुम्ला",
+    "area_sq_km": "2531",
+    "website": "https://dccjumla.gov.np/",
+    "headquarter_en": "Chandannath",
+    "headquarter_np": "चन्दननाथ"
+  },
+  {
+    "id": 64,
+    "province_id": 6,
+    "name_en": "Kalikot",
+    "name_np": "कालिकोट",
+    "area_sq_km": "1741",
+    "website": "https://dcckalikot.gov.np/",
+    "headquarter_en": "Manma",
+    "headquarter_np": "मान्म"
+  },
+  {
+    "id": 65,
+    "province_id": 6,
+    "name_en": "Mugu",
+    "name_np": "मुगु",
+    "area_sq_km": "3535",
+    "website": "https://dccmugu.gov.np/",
+    "headquarter_en": "Gamgadhi",
+    "headquarter_np": "गमगढी"
+  },
+  {
+    "id": 66,
+    "province_id": 6,
+    "name_en": "Surkhet",
+    "name_np": "सुर्खेत",
+    "area_sq_km": "2451",
+    "website": "https://dccsurkhet.gov.np/",
+    "headquarter_en": "Birendranagar",
+    "headquarter_np": "बिरेन्द्रनगर"
+  },
+  {
+    "id": 67,
+    "province_id": 6,
+    "name_en": "Dailekh",
+    "name_np": "दैलेख",
+    "area_sq_km": "1502",
+    "website": "https://dccdailekh.gov.np/",
+    "headquarter_en": "Dailekh",
+    "headquarter_np": "दैलेख"
+  },
+  {
+    "id": 68,
+    "province_id": 6,
+    "name_en": "Jajarkot",
+    "name_np": "जाजरकोट",
+    "area_sq_km": "2230",
+    "website": "https://dccjajarkot.gov.np/",
+    "headquarter_en": "Khalanga",
+    "headquarter_np": "खलंगा"
+  },
+  {
+    "id": 69,
+    "province_id": 7,
+    "name_en": "Darchula",
+    "name_np": "दार्चुला",
+    "area_sq_km": "2344.61",
+    "website": "https://ddcdarchula.gov.np/",
+    "headquarter_en": "Darchula",
+    "headquarter_np": "दार्चुला"
+  },
+  {
+    "id": 70,
+    "province_id": 7,
+    "name_en": "Bajhang",
+    "name_np": "बझाङ",
+    "area_sq_km": "3394.21",
+    "website": "https://dccbajhang.gov.np/",
+    "headquarter_en": "Jayaprithvi",
+    "headquarter_np": "जयप्रिथिवी"
+  },
+  {
+    "id": 71,
+    "province_id": 7,
+    "name_en": "Bajura",
+    "name_np": "बाजुरा",
+    "area_sq_km": "2300.34",
+    "website": "https://dccbajura.gov.np/",
+    "headquarter_en": "Badimalika",
+    "headquarter_np": "बडिमालिका"
+  },
+  {
+    "id": 72,
+    "province_id": 7,
+    "name_en": "Baitadi",
+    "name_np": "बैतडी",
+    "area_sq_km": "1496.04",
+    "website": "https://dccbaitadi.gov.np/",
+    "headquarter_en": "Dasharathchand",
+    "headquarter_np": "दशरथचन्द"
+  },
+  {
+    "id": 73,
+    "province_id": 7,
+    "name_en": "Doti",
+    "name_np": "डोटी",
+    "area_sq_km": "2295.71",
+    "website": "https://dccdoti.gov.np/",
+    "headquarter_en": "Dipayal Silgadhi",
+    "headquarter_np": "दिपायल सिलगढी"
+  },
+  {
+    "id": 74,
+    "province_id": 7,
+    "name_en": "Acham",
+    "name_np": "अछाम",
+    "area_sq_km": "1692",
+    "website": "https://dccacham.gov.np/",
+    "headquarter_en": "Mangalsen",
+    "headquarter_np": "मंगलसेन"
+  },
+  {
+    "id": 75,
+    "province_id": 7,
+    "name_en": "Dadeldhura",
+    "name_np": "डडेलधुरा",
+    "area_sq_km": "1506.09",
+    "website": "https://dccdadeldhura.gov.np/",
+    "headquarter_en": "Amargadhi",
+    "headquarter_np": "अमरगढी"
+  },
+  {
+    "id": 76,
+    "province_id": 7,
+    "name_en": "Kanchanpur",
+    "name_np": "कञ्चनपुर",
+    "area_sq_km": "1222.31",
+    "website": "https://dcckanchanpur.gov.np/",
+    "headquarter_en": "Bheemdatta",
+    "headquarter_np": "भीमदत्त"
+  },
+  {
+    "id": 77,
+    "province_id": 7,
+    "name_en": "Kailali",
+    "name_np": "कैलाली",
+    "area_sq_km": "3292.35",
+    "website": "https://dcckailali.gov.np/",
+    "headquarter_en": "Dhangadhi",
+    "headquarter_np": "धनगढी"
+  }
+]
