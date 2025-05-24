@@ -123,7 +123,7 @@ def validate_citizenship_format(cid: str) -> bool:
 
         Supports both English and Nepali digits.
 
-    Format: 
+    Format:
         - DD: District code (01-77)
         - LL: Local body code (00-99)
         - WW: Ward number (01-99)
@@ -169,7 +169,7 @@ def validate_pan(
     Validates a PAN (Permanent Account Number) used in Nepal.
 
         Supports both English and Nepali digits.
-    
+
     Args:
         pan (str): The PAN number as a string.
         check_existence (bool): If True, also checks existence via an external source.

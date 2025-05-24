@@ -2,7 +2,16 @@ import random
 from .numbers import to_nepali_number, number_to_nepali_words
 
 # For random Nepali names (short sample)
-NEPALI_NAMES = ["आशिष", "सिता", "कृष्ण", "बिबेक" "गीता", "राजेश", "माया", "सन्देश", "प्रिया"]
+NEPALI_NAMES = [
+    "आशिष",
+    "सिता",
+    "कृष्ण",
+    "बिबेक" "गीता",
+    "राजेश",
+    "माया",
+    "सन्देश",
+    "प्रिया",
+]
 
 
 def random_number(start: int = 0, end: int = 1000) -> str:

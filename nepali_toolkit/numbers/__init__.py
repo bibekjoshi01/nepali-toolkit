@@ -1,3 +1,4 @@
+# ruff: noqa
 from .convert import *
 from .words import *
 

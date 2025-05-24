@@ -1,0 +1,14 @@
+* text=auto
+
+# Force LF endings for shell scripts
+*.sh text eol=lf
+
+# Treat images as binary files
+*.jpg binary
+*.png binary
+
+# No diffs for compiled binaries
+*.exe -diff
+
+# Custom diff for Markdown files
+*.md diff=markdown

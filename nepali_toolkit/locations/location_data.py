@@ -19,7 +19,6 @@ EntityType = Literal["province", "district", "municipality", None]
 
 
 class Location:
-
     class provinces:
         @staticmethod
         def list() -> list[Dict]:
