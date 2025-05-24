@@ -1,0 +1,17 @@
+[project]
+name = "nepali-toolkit"
+version = "0.1.0"
+description = "A collection of tools for working with Nepali data, digits, dates and more."
+authors = [{name = "Bibek Joshi", email = "bibekjoshi34@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+[project.urls]
+"Homepage" = "https://github.com/bibekjoshi01/nepali-toolkit"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
