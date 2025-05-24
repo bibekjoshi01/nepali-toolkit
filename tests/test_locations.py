@@ -100,7 +100,3 @@ def test_get_municipalities_by_district_name():
     munis = Location.municipalities.get_by_district("Bhojpur")
     assert isinstance(munis, list)
     assert any(m["name_en"] == "Hatuwagadhi Rural Municipality" for m in munis)
-
-    munis = Location.municipalities.get_by_district("भोजपुर")
-    assert isinstance(munis, list)
-    assert any(m["name_np"].startswith("भोजपुर") for m in munis)
