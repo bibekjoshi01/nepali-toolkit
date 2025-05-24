@@ -1,6 +1,6 @@
 [project]
 name = "nepali-toolkit"
-version = "0.1.1"
+version = "0.1.3"
 description = "A collection of tools for working with Nepali data, digits, dates and more."
 authors = [{ name = "Bibek Joshi", email = "bibekjoshi34@gmail.com" }]
 readme = "README.md"
