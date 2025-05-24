@@ -1,6 +1,6 @@
-black==25.1.0
-pytest==8.3.5
-RapidFuzz==3.13.0
-pre_commit==4.2.0
+black
+pytest
+RapidFuzz
+pre_commit
 build
 twine
