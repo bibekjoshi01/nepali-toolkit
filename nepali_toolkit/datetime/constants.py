@@ -1,0 +1,4 @@
+MINYEAR = 2070
+MAXYEAR = 2085
+NEPAL_TIME_UTC_OFFSET = (5 * 3600) + (45 * 60)
+REFERENCE_DATE_AD = {"year": 2013, "month": 4, "day": 14}
