@@ -13,7 +13,7 @@ _CALENDAR = {}
 
 _dir = os.path.dirname(os.path.dirname(__file__))
 
-with open(os.path.join(_dir, "data", "calendar.json"), encoding="utf-8") as f:
+with open(os.path.join(_dir, "data", "calender.json"), encoding="utf-8") as f:
     _CALENDAR = json.load(f)
 
 
@@ -39,3 +39,7 @@ def _check_date_fields(year, month, day):
         raise ValueError("day must be in 1..%d" % dim, day)
 
     return year, month, day
+
+
+def _compare(x, y):
+    return 0 if x == y else 1 if x > y else -1
