@@ -3,4518 +3,5271 @@
     "id": 1,
     "name_en": "Shadanand Municipality",
     "district_id": 1,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "षदनन्द् ंउनिचिपलित्य्"
   },
   {
     "id": 2,
     "name_en": "Bhojpur Municipality",
     "district_id": 1,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Bहोज्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 3,
     "name_en": "Hatuwagadhi Rural Municipality",
     "district_id": 1,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ःअतुवगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 4,
     "name_en": "Ramprasad Rai Rural Municipality",
     "district_id": 1,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱम्प्रसद् ऱै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 5,
     "name_en": "Aamchok Rural Municipality",
     "district_id": 1,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "आअम्चोक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 6,
     "name_en": "Tyamke Maiyum Rural Municipality",
     "district_id": 1,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ट्यम्के ंऐयुम् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 7,
     "name_en": "Arun Rural Municipality",
     "district_id": 1,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "आरुन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 8,
     "name_en": "Pauwadungma Rural Municipality",
     "district_id": 1,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pऔवदुन्ग्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 9,
     "name_en": "Salpasilichho Rural Municipality",
     "district_id": 1,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षल्पसिलिछो ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 10,
     "name_en": "Dhankuta Municipality",
     "district_id": 2,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ढन्कुत ंउनिचिपलित्य्"
   },
   {
     "id": 11,
     "name_en": "Pakhribas Municipality",
     "district_id": 2,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pअख्रिबस् ंउनिचिपलित्य्"
   },
   {
     "id": 12,
     "name_en": "Mahalaxmi Municipality",
     "district_id": 2,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअहलक्ष्मि ंउनिचिपलित्य्"
   },
   {
     "id": 13,
     "name_en": "Sangurigadhi Rural Municipality",
     "district_id": 2,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "षन्गुरिगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 14,
     "name_en": "Chaubise Rural Municipality",
     "district_id": 2,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "छौबिसे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 15,
     "name_en": "Sahidbhumi Rural Municipality",
     "district_id": 2,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षहिद्भुमि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 16,
     "name_en": "Chhathar Jorpati Rural Municipality",
     "district_id": 2,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छ्हथर् ज़ोर्पति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 17,
     "name_en": "Suryodaya Municipality",
     "district_id": 3,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "षुर्योदय ंउनिचिपलित्य्"
   },
   {
     "id": 18,
     "name_en": "Ilam Municipality",
     "district_id": 3,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ईलम् ंउनिचिपलित्य्"
   },
   {
     "id": 19,
     "name_en": "Deumai Municipality",
     "district_id": 3,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "डेउमै ंउनिचिपलित्य्"
   },
   {
     "id": 20,
     "name_en": "Maijogmai Rural Municipality",
     "district_id": 3,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंऐजोग्मै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 21,
     "name_en": "Phakphokthum Rural Municipality",
     "district_id": 3,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pहक्फोक्थुम् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 22,
     "name_en": "Mai Municipality",
     "district_id": 3,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंऐ ंउनिचिपलित्य्"
   },
   {
     "id": 23,
     "name_en": "Chulachuli Rural Municipality",
     "district_id": 3,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छुलचुलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 24,
     "name_en": "Rong Rural Municipality",
     "district_id": 3,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 25,
     "name_en": "Mangsebung Rural Municipality",
     "district_id": 3,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअन्ग्सेबुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 26,
     "name_en": "Sandakpur Rural Municipality",
     "district_id": 3,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षन्दक्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 27,
     "name_en": "Mechinagar Municipality",
     "district_id": 4,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "ंएचिनगर् ंउनिचिपलित्य्"
   },
   {
     "id": 28,
     "name_en": "Birtamod Municipality",
     "district_id": 4,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bइर्तमोद् ंउनिचिपलित्य्"
   },
   {
     "id": 29,
     "name_en": "Damak Municipality",
     "district_id": 4,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "डमक् ंउनिचिपलित्य्"
   },
   {
     "id": 30,
     "name_en": "Bhadrapur Municipality",
     "district_id": 4,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bहद्रपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 31,
     "name_en": "Shivasatakshi Municipality",
     "district_id": 4,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षिवसतक्शि ंउनिचिपलित्य्"
   },
   {
     "id": 32,
     "name_en": "Arjundhara Municipality",
     "district_id": 4,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "आर्जुन्धर ंउनिचिपलित्य्"
   },
   {
     "id": 33,
     "name_en": "Gauradaha Municipality",
     "district_id": 4,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ौरदह ंउनिचिपलित्य्"
   },
   {
     "id": 34,
     "name_en": "Kankai Municipality",
     "district_id": 4,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़न्कै ंउनिचिपलित्य्"
   },
   {
     "id": 35,
     "name_en": "Kamal Rural Municipality",
     "district_id": 4,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़मल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 36,
     "name_en": "Buddha Shanti Rural Municipality",
     "district_id": 4,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bउद्ध षन्ति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 37,
     "name_en": "Kachankawal Rural Municipality",
     "district_id": 4,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़चन्कवल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 38,
     "name_en": "Jhapa Rural Municipality",
     "district_id": 4,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ज़्हप ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 39,
     "name_en": "Barhadashi Rural Municipality",
     "district_id": 4,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bअर्हदशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 40,
     "name_en": "Gaurigunj Rural Municipality",
     "district_id": 4,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़ौरिगुन्ज् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 41,
     "name_en": "Haldibari Rural Municipality",
     "district_id": 4,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ःअल्दिबरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 42,
     "name_en": "Diktel Rupakot Majhuwagadhi Municipality",
     "district_id": 5,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "डिक्तेल् ऱुपकोत् ंअझुवगधि ंउनिचिपलित्य्"
   },
   {
     "id": 43,
     "name_en": "Halesi Tuwachung Municipality",
     "district_id": 5,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ःअलेसि टुवचुन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 44,
     "name_en": "Khotehang Rural Municipality",
     "district_id": 5,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़्होतेहन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 45,
     "name_en": "Diprung Chuichumma Rural Municipality",
     "district_id": 5,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डिप्रुन्ग् छुइचुम्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 46,
     "name_en": "Aiselukharka Rural Municipality",
     "district_id": 5,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "आइसेलुखर्क ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 47,
     "name_en": "Jantedhunga Rural Municipality",
     "district_id": 5,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़न्तेधुन्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 48,
     "name_en": "Kepilasgadhi Rural Municipality",
     "district_id": 5,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़ेपिलस्गधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 49,
     "name_en": "Barahpokhari Rural Municipality",
     "district_id": 5,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअरह्पोखरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 50,
     "name_en": "Rawa Besi Rural Municipality",
     "district_id": 5,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱव Bएसि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 51,
     "name_en": "Sakela Rural Municipality",
     "district_id": 5,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षकेल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 52,
     "name_en": "Sundar Haraicha Municipality",
     "district_id": 6,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षुन्दर् ःअरैच ंउनिचिपलित्य्"
   },
   {
     "id": 53,
     "name_en": "Belbari Municipality",
     "district_id": 6,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bएल्बरि ंउनिचिपलित्य्"
   },
   {
     "id": 54,
     "name_en": "Pathari Shanischare Municipality",
     "district_id": 6,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pअथरि षनिस्चरे ंउनिचिपलित्य्"
   },
   {
     "id": 55,
     "name_en": "Ratuwamai Municipality",
     "district_id": 6,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ऱतुवमै ंउनिचिपलित्य्"
   },
   {
     "id": 56,
     "name_en": "Urlabari Municipality",
     "district_id": 6,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऊर्लबरि ंउनिचिपलित्य्"
   },
   {
     "id": 57,
     "name_en": "Rangeli Municipality",
     "district_id": 6,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱन्गेलि ंउनिचिपलित्य्"
   },
   {
     "id": 58,
     "name_en": "Sunawarshi Municipality",
     "district_id": 6,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षुनवर्शि ंउनिचिपलित्य्"
   },
   {
     "id": 59,
     "name_en": "Letang Municipality",
     "district_id": 6,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ळेतन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 60,
     "name_en": "Biratnagar Metropolitan City",
     "district_id": 6,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "Bइरत्नगर् ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 61,
     "name_en": "Jahada Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ज़हद ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 62,
     "name_en": "Budi Ganga Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bउदि ग़न्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 63,
     "name_en": "Katahari Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़तहरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 64,
     "name_en": "Dhanpalthan Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ढन्पल्थन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 65,
     "name_en": "Kanepokhari Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़नेपोखरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 66,
     "name_en": "Gramthan Rural Municipality",
     "district_id": 6,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़्रम्थन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 67,
     "name_en": "Kerabari Rural Municipality",
     "district_id": 6,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ख़ेरबरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 68,
     "name_en": "Miklajung Rural Municipality",
     "district_id": 6,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंइक्लजुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 69,
     "name_en": "Siddhicharan Municipality",
     "district_id": 7,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षिद्धिचरन् ंउनिचिपलित्य्"
   },
   {
     "id": 70,
     "name_en": "Khiji Demba Rural Municipality",
     "district_id": 7,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़्हिजि डेम्ब ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 71,
     "name_en": "Chisankhugadhi Rural Municipality",
     "district_id": 7,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "छिसन्खुगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 72,
     "name_en": "Molung Rural Municipality",
     "district_id": 7,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंओलुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 73,
     "name_en": "Sunkoshi Rural Municipality",
     "district_id": 7,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "षुन्कोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 74,
     "name_en": "Champadevi Rural Municipality",
     "district_id": 7,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छम्पदेवि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 75,
     "name_en": "Manebhanjyang Rural Municipality",
     "district_id": 7,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअनेभन्ज्यन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 76,
     "name_en": "Likhu Rural Municipality",
     "district_id": 7,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ळिखु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 77,
     "name_en": "Phidim Municipality",
     "district_id": 8,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Pहिदिम् ंउनिचिपलित्य्"
   },
   {
     "id": 78,
     "name_en": "Miklajung Rural Municipality",
     "district_id": 8,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंइक्लजुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 79,
     "name_en": "Phalgunanda Rural Municipality",
     "district_id": 8,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pहल्गुनन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 80,
     "name_en": "Hilihang Rural Municipality",
     "district_id": 8,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःइलिहन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 81,
     "name_en": "Phalelung Rural Municipality",
     "district_id": 8,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Pहलेलुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 82,
     "name_en": "Yangwarak Rural Municipality",
     "district_id": 8,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "य़न्ग्वरक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 83,
     "name_en": "Kummayak Rural Municipality",
     "district_id": 8,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़ुम्मयक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 84,
     "name_en": "Tumbewa Rural Municipality",
     "district_id": 8,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "टुम्बेव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 85,
     "name_en": "Khandbari Municipality",
     "district_id": 9,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़्हन्द्बरि ंउनिचिपलित्य्"
   },
   {
     "id": 86,
     "name_en": "Chainpur Municipality",
     "district_id": 9,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "छैन्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 87,
     "name_en": "Dharmadevi Municipality",
     "district_id": 9,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ढर्मदेवि ंउनिचिपलित्य्"
   },
   {
     "id": 88,
     "name_en": "Panchkhapan Municipality",
     "district_id": 9,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअन्च्खपन् ंउनिचिपलित्य्"
   },
   {
     "id": 89,
     "name_en": "Madi Municipality",
     "district_id": 9,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअदि ंउनिचिपलित्य्"
   },
   {
     "id": 90,
     "name_en": "Makalu Rural Municipality",
     "district_id": 9,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअकलु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 91,
     "name_en": "Silichong Rural Municipality",
     "district_id": 9,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षिलिचोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 92,
     "name_en": "Sabhapokhari Rural Municipality",
     "district_id": 9,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षभपोखरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 93,
     "name_en": "Chichila Rural Municipality",
     "district_id": 9,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "छिचिल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 94,
     "name_en": "BhotKhola Rural Municipality",
     "district_id": 9,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bहोत्ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 95,
     "name_en": "Solu Dudhkunda Municipality",
     "district_id": 10,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षोलु डुध्कुन्द ंउनिचिपलित्य्"
   },
   {
     "id": 96,
     "name_en": "Mapya Dudhkoshi Rural Municipality",
     "district_id": 10,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअप्य डुध्कोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 97,
     "name_en": "Necha Salyan Rural Municipality",
     "district_id": 10,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णेच षल्यन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 98,
     "name_en": "Thulung Dudhkoshi Rural Municipality",
     "district_id": 10,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ठुलुन्ग् डुध्कोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 99,
     "name_en": "Maha Kulung Rural Municipality",
     "district_id": 10,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ंअह ख़ुलुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 100,
     "name_en": "Sotang Rural Municipality",
     "district_id": 10,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षोतन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 101,
     "name_en": "Khumbu PasangLhamu Rural Municipality",
     "district_id": 10,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़्हुम्बु Pअसन्ग्ळ्हमु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 102,
     "name_en": "Likhu Pike Rural Municipality",
     "district_id": 10,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ळिखु Pइके ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 103,
     "name_en": "BarahaKshetra Municipality",
     "district_id": 11,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bअरहख़्शेत्र ंउनिचिपलित्य्"
   },
   {
     "id": 104,
     "name_en": "Inaruwa Municipality",
     "district_id": 11,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ईनरुव ंउनिचिपलित्य्"
   },
   {
     "id": 105,
     "name_en": "Duhabi Municipality",
     "district_id": 11,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "डुहबि ंउनिचिपलित्य्"
   },
   {
     "id": 106,
     "name_en": "Ramdhuni Municipality",
     "district_id": 11,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱम्धुनि ंउनिचिपलित्य्"
   },
   {
     "id": 107,
     "name_en": "Itahari Sub-Metropolitan City",
     "district_id": 11,
-    "ward_count": 20
+    "ward_count": 20,
+    "name_np": "ईतहरि षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 108,
     "name_en": "Dharan Sub-Metropolitan City",
     "district_id": 11,
-    "ward_count": 20
+    "ward_count": 20,
+    "name_np": "ढरन् षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 109,
     "name_en": "Koshi Rural Municipality",
     "district_id": 11,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़ोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 110,
     "name_en": "Harinagar Rural Municipality",
     "district_id": 11,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःअरिनगर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 111,
     "name_en": "Bhokraha Narsingh Rural Municipality",
     "district_id": 11,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bहोक्रह णर्सिन्घ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 112,
     "name_en": "Dewangunj Rural Municipality",
     "district_id": 11,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डेवन्गुन्ज् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 113,
     "name_en": "Gadhi Rural Municipality",
     "district_id": 11,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़धि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 114,
     "name_en": "Barju Rural Municipality",
     "district_id": 11,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअर्जु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 115,
     "name_en": "Phungling Municipality",
     "district_id": 12,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Pहुन्ग्लिन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 116,
     "name_en": "Sirijangha Rural Municipality",
     "district_id": 12,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षिरिजन्घ ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 117,
     "name_en": "Aathrai Triveni Rural Municipality",
     "district_id": 12,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "आअथ्रै ट्रिवेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 118,
     "name_en": "Pathibhara Yangwarak Rural Municipality",
     "district_id": 12,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pअथिभर य़न्ग्वरक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 119,
     "name_en": "Meringden Rural Municipality",
     "district_id": 12,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंएरिन्ग्देन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 120,
     "name_en": "Sidingwa Rural Municipality",
     "district_id": 12,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षिदिन्ग्व ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 121,
     "name_en": "Phaktanglung Rural Municipality",
     "district_id": 12,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pहक्तन्ग्लुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 122,
     "name_en": "Maiwa Khola Rural Municipality",
     "district_id": 12,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंऐव ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 123,
     "name_en": "Mikwa Khola Rural Municipality",
     "district_id": 12,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ंइक्व ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 124,
     "name_en": "Myanglung Municipality",
     "district_id": 13,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंयन्ग्लुन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 125,
     "name_en": "Laligurans Municipality",
     "district_id": 13,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ळलिगुरन्स् ंउनिचिपलित्य्"
   },
   {
     "id": 126,
     "name_en": "Aathrai Rural Municipality",
     "district_id": 13,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "आअथ्रै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 127,
     "name_en": "Phedap Rural Municipality",
     "district_id": 13,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pहेदप् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 128,
     "name_en": "Chhathar Rural Municipality",
     "district_id": 13,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छ्हथर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 129,
     "name_en": "Menchayayem Rural Municipality",
     "district_id": 13,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंएन्चययेम् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 130,
     "name_en": "Triyuga Municipality",
     "district_id": 14,
-    "ward_count": 16
+    "ward_count": 16,
+    "name_np": "ट्रियुग ंउनिचिपलित्य्"
   },
   {
     "id": 131,
     "name_en": "Katari Municipality",
     "district_id": 14,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ख़तरि ंउनिचिपलित्य्"
   },
   {
     "id": 132,
     "name_en": "Chaudandigadhi Municipality",
     "district_id": 14,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छौदन्दिगधि ंउनिचिपलित्य्"
   },
   {
     "id": 133,
     "name_en": "Belaka Municipality",
     "district_id": 14,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bएलक ंउनिचिपलित्य्"
   },
   {
     "id": 134,
     "name_en": "Udayapurgadhi Rural Municipality",
     "district_id": 14,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऊदयपुर्गधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 135,
     "name_en": "Rautamai Rural Municipality",
     "district_id": 14,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱौतमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 136,
     "name_en": "Tapli Rural Municipality",
     "district_id": 14,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "टप्लि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 137,
     "name_en": "Limchungbung Rural Municipality",
     "district_id": 14,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ळिम्चुन्ग्बुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 138,
     "name_en": "Birgunj Metropolitan City",
     "district_id": 15,
-    "ward_count": 32
+    "ward_count": 32,
+    "name_np": "Bइर्गुन्ज् ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 139,
     "name_en": "Bahudarmai Municipality",
     "district_id": 15,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअहुदर्मै ंउनिचिपलित्य्"
   },
   {
     "id": 140,
     "name_en": "Parsagadhi Municipality",
     "district_id": 15,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअर्सगधि ंउनिचिपलित्य्"
   },
   {
     "id": 141,
     "name_en": "Pokhariya Municipality",
     "district_id": 15,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pओखरिय ंउनिचिपलित्य्"
   },
   {
     "id": 142,
     "name_en": "Bindabasini Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bइन्दबसिनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 143,
     "name_en": "Dhobini Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ढोबिनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 144,
     "name_en": "Chhipaharmai Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "छ्हिपहर्मै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 145,
     "name_en": "Jagarnathpur Rural Municipality",
     "district_id": 15,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़गर्नथ्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 146,
     "name_en": "Jirabhawani Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ज़िरभवनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 147,
     "name_en": "Kalikamai Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़लिकमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 148,
     "name_en": "Pakaha Mainpur Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pअकह ंऐन्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 149,
     "name_en": "Paterwa Sugauli Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pअतेर्व षुगौलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 150,
     "name_en": "Sakhuwa Prasauni Rural Municipality",
     "district_id": 15,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षखुव Pरसौनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 151,
     "name_en": "Thori Rural Municipality",
     "district_id": 15,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ठोरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 152,
     "name_en": "Kalaiya Sub-Metropolitan City",
     "district_id": 16,
-    "ward_count": 27
+    "ward_count": 27,
+    "name_np": "ख़लैय षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 153,
     "name_en": "Jitpur Simara Sub-Metropolitan City",
     "district_id": 16,
-    "ward_count": 24
+    "ward_count": 24,
+    "name_np": "ज़ित्पुर् षिमर षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 154,
     "name_en": "Kolhabi Municipality",
     "district_id": 16,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़ोल्हबि ंउनिचिपलित्य्"
   },
   {
     "id": 155,
     "name_en": "Nijgadh Municipality",
     "district_id": 16,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "णिज्गध् ंउनिचिपलित्य्"
   },
   {
     "id": 156,
     "name_en": "Mahagadhimai Municipality",
     "district_id": 16,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ंअहगधिमै ंउनिचिपलित्य्"
   },
   {
     "id": 157,
     "name_en": "Simaraungadh Municipality",
     "district_id": 16,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षिमरौन्गध् ंउनिचिपलित्य्"
   },
   {
     "id": 158,
     "name_en": "Pacharauta Municipality",
     "district_id": 16,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअचरौत ंउनिचिपलित्य्"
   },
   {
     "id": 159,
     "name_en": "Pheta Rural Municipality",
     "district_id": 16,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pहेत ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 160,
     "name_en": "Bishrampur Rural Municipality",
     "district_id": 16,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bइश्रम्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 161,
     "name_en": "Prasauni Rural Municipality",
     "district_id": 16,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pरसौनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 162,
     "name_en": "Adarsh Kotwal Rural Municipality",
     "district_id": 16,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "आदर्श् ख़ोत्वल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 163,
     "name_en": "Karaiyamai Rural Municipality",
     "district_id": 16,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़रैयमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 164,
     "name_en": "Devtal Rural Municipality",
     "district_id": 16,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डेव्तल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 165,
     "name_en": "Parwanipur Rural Municipality",
     "district_id": 16,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pअर्वनिपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 166,
     "name_en": "Baragadhi Rural Municipality",
     "district_id": 16,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअरगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 167,
     "name_en": "Suwarna Rural Municipality",
     "district_id": 16,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षुवर्न ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 168,
     "name_en": "Baudhimai Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bऔधिमै ंउनिचिपलित्य्"
   },
   {
     "id": 169,
     "name_en": "Brindaban Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bरिन्दबन् ंउनिचिपलित्य्"
   },
   {
     "id": 170,
     "name_en": "Chandrapur Municipality",
     "district_id": 17,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छन्द्रपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 171,
     "name_en": "Dewahi Gonahi Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "डेवहि ग़ोनहि ंउनिचिपलित्य्"
   },
   {
     "id": 172,
     "name_en": "Gadhimai Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़धिमै ंउनिचिपलित्य्"
   },
   {
     "id": 173,
     "name_en": "Guruda Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ुरुद ंउनिचिपलित्य्"
   },
   {
     "id": 174,
     "name_en": "Gaur Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ौर् ंउनिचिपलित्य्"
   },
   {
     "id": 175,
     "name_en": "Gujara Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ुजर ंउनिचिपलित्य्"
   },
   {
     "id": 176,
     "name_en": "Ishanath Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ईशनथ् ंउनिचिपलित्य्"
   },
   {
     "id": 177,
     "name_en": "Katahariya Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़तहरिय ंउनिचिपलित्य्"
   },
   {
     "id": 178,
     "name_en": "Madhav Narayan Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअधव् णरयन् ंउनिचिपलित्य्"
   },
   {
     "id": 179,
     "name_en": "Maulapur Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंऔलपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 180,
     "name_en": "Paroha Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअरोह ंउनिचिपलित्य्"
   },
   {
     "id": 181,
     "name_en": "Phatuwa Bijayapur Municipality",
     "district_id": 17,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Pहतुव Bइजयपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 182,
     "name_en": "Rajdevi Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱज्देवि ंउनिचिपलित्य्"
   },
   {
     "id": 183,
     "name_en": "Rajpur Municipality",
     "district_id": 17,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱज्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 184,
     "name_en": "Durga Bhagwati Rural Municipality",
     "district_id": 17,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "डुर्ग Bहग्वति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 185,
     "name_en": "Yamunamai Rural Municipality",
     "district_id": 17,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "य़मुनमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 186,
     "name_en": "Bagmati Municipality",
     "district_id": 18,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Bअग्मति ंउनिचिपलित्य्"
   },
   {
     "id": 187,
     "name_en": "Balara Municipality",
     "district_id": 18,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bअलर ंउनिचिपलित्य्"
   },
   {
     "id": 188,
     "name_en": "Barahathwa Municipality",
     "district_id": 18,
-    "ward_count": 18
+    "ward_count": 18,
+    "name_np": "Bअरहथ्व ंउनिचिपलित्य्"
   },
   {
     "id": 189,
     "name_en": "Godaita Municipality",
     "district_id": 18,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ग़ोदैत ंउनिचिपलित्य्"
   },
   {
     "id": 190,
     "name_en": "Hariwan Municipality",
     "district_id": 18,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ःअरिवन् ंउनिचिपलित्य्"
   },
   {
     "id": 191,
     "name_en": "Haripur Municipality",
     "district_id": 18,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ःअरिपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 192,
     "name_en": "Haripurwa Municipality",
     "district_id": 18,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ःअरिपुर्व ंउनिचिपलित्य्"
   },
   {
     "id": 193,
     "name_en": "Ishowrpur Municipality",
     "district_id": 18,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "ईशोव्र्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 194,
     "name_en": "Kabilasi Municipality",
     "district_id": 18,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ख़बिलसि ंउनिचिपलित्य्"
   },
   {
     "id": 195,
     "name_en": "Lalbandi Municipality",
     "district_id": 18,
-    "ward_count": 17
+    "ward_count": 17,
+    "name_np": "ळल्बन्दि ंउनिचिपलित्य्"
   },
   {
     "id": 196,
     "name_en": "Malangawa Municipality",
     "district_id": 18,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ंअलन्गव ंउनिचिपलित्य्"
   },
   {
     "id": 197,
     "name_en": "Basbariya Rural Municipality",
     "district_id": 18,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअस्बरिय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 198,
     "name_en": "Bisnu Rural Municipality",
     "district_id": 18,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bइस्नु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 199,
     "name_en": "Brahampuri Rural Municipality",
     "district_id": 18,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bरहम्पुरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 200,
     "name_en": "Chakraghatta Rural Municipality",
     "district_id": 18,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "छक्रघत्त ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 201,
     "name_en": "Chandranagar Rural Municipality",
     "district_id": 18,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छन्द्रनगर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 202,
     "name_en": "Dhankaul Rural Municipality",
     "district_id": 18,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ढन्कौल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 203,
     "name_en": "Kaudena Rural Municipality",
     "district_id": 18,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़ौदेन ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 204,
     "name_en": "Parsa Rural Municipality",
     "district_id": 18,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pअर्स ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 205,
     "name_en": "Ramnagar Rural Municipality",
     "district_id": 18,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऱम्नगर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 206,
     "name_en": "Lahan Municipality",
     "district_id": 19,
-    "ward_count": 24
+    "ward_count": 24,
+    "name_np": "ळहन् ंउनिचिपलित्य्"
   },
   {
     "id": 207,
     "name_en": "Dhangadhimai Municipality",
     "district_id": 19,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ढन्गधिमै ंउनिचिपलित्य्"
   },
   {
     "id": 208,
     "name_en": "Siraha Municipality",
     "district_id": 19,
-    "ward_count": 22
+    "ward_count": 22,
+    "name_np": "षिरह ंउनिचिपलित्य्"
   },
   {
     "id": 209,
     "name_en": "Golbazar Municipality",
     "district_id": 19,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "ग़ोल्बज़र् ंउनिचिपलित्य्"
   },
   {
     "id": 210,
     "name_en": "Mirchaiya Municipality",
     "district_id": 19,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ंइर्चैय ंउनिचिपलित्य्"
   },
   {
     "id": 211,
     "name_en": "Kalyanpur Municipality",
     "district_id": 19,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ख़ल्यन्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 212,
     "name_en": "Karjanha Municipality",
     "district_id": 19,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़र्जन्ह ंउनिचिपलित्य्"
   },
   {
     "id": 213,
     "name_en": "Sukhipur Municipality",
     "district_id": 19,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "षुखिपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 214,
     "name_en": "Bhagwanpur Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bहग्वन्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 215,
     "name_en": "Aurahi Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "आउरहि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 216,
     "name_en": "Bishnupur Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bइश्नुपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 217,
     "name_en": "Bariyarpatti Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bअरियर्पत्ति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 218,
     "name_en": "Lakshmipur Patari Rural Municipality",
     "district_id": 19,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ळक्श्मिपुर् Pअतरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 219,
     "name_en": "Naraha Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णरह ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 220,
     "name_en": "SakhuwanankarKatti Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षखुवनन्कर्ख़त्ति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 221,
     "name_en": "Arnama Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "आर्नम ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 222,
     "name_en": "Navarajpur Rural Municipality",
     "district_id": 19,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णवरज्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 223,
     "name_en": "Janakpurdham Sub-Metropolitan City",
     "district_id": 20,
-    "ward_count": 25
+    "ward_count": 25,
+    "name_np": "ज़नक्पुर्धम् षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 224,
     "name_en": "Chhireshwarnath Municipality",
     "district_id": 20,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छ्हिरेश्वर्नथ् ंउनिचिपलित्य्"
   },
   {
     "id": 225,
     "name_en": "Ganeshman Charnath Municipality",
     "district_id": 20,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ग़नेश्मन् छर्नथ् ंउनिचिपलित्य्"
   },
   {
     "id": 226,
     "name_en": "Dhanushadham Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ढनुशधम् ंउनिचिपलित्य्"
   },
   {
     "id": 227,
     "name_en": "Nagarain Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "णगरैन् ंउनिचिपलित्य्"
   },
   {
     "id": 228,
     "name_en": "Bideha Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bइदेह ंउनिचिपलित्य्"
   },
   {
     "id": 229,
     "name_en": "Mithila Municipality",
     "district_id": 20,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ंइथिल ंउनिचिपलित्य्"
   },
   {
     "id": 230,
     "name_en": "Sahidnagar Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षहिद्नगर् ंउनिचिपलित्य्"
   },
   {
     "id": 231,
     "name_en": "Sabaila Municipality",
     "district_id": 20,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "षबैल ंउनिचिपलित्य्"
   },
   {
     "id": 232,
     "name_en": "Kamala Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़मल ंउनिचिपलित्य्"
   },
   {
     "id": 233,
     "name_en": "MithilaBihari Municipality",
     "district_id": 20,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंइथिलBइहरि ंउनिचिपलित्य्"
   },
   {
     "id": 234,
     "name_en": "Hansapur Municipality",
     "district_id": 20,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ःअन्सपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 235,
     "name_en": "Janaknandani Rural Municipality",
     "district_id": 20,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़नक्नन्दनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 236,
     "name_en": "Bateshwar Rural Municipality",
     "district_id": 20,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bअतेश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 237,
     "name_en": "Mukhiyapatti Musharniya Rural Municipality",
     "district_id": 20,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंउखियपत्ति ंउशर्निय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 238,
     "name_en": "Lakshminya Rural Municipality",
     "district_id": 20,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ळक्श्मिन्य ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 239,
     "name_en": "Aaurahi Rural Municipality",
     "district_id": 20,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आऔरहि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 240,
     "name_en": "Dhanauji Rural Municipality",
     "district_id": 20,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ढनौजि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 241,
     "name_en": "Bodebarsain Municipality",
     "district_id": 21,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bओदेबर्सैन् ंउनिचिपलित्य्"
   },
   {
     "id": 242,
     "name_en": "Dakneshwori Municipality",
     "district_id": 21,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "डक्नेश्वोरि ंउनिचिपलित्य्"
   },
   {
     "id": 243,
     "name_en": "Hanumannagar Kankalini Municipality",
     "district_id": 21,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ःअनुमन्नगर् ख़न्कलिनि ंउनिचिपलित्य्"
   },
   {
     "id": 244,
     "name_en": "Kanchanrup Municipality",
     "district_id": 21,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ख़न्चन्रुप् ंउनिचिपलित्य्"
   },
   {
     "id": 245,
     "name_en": "Khadak Municipality",
     "district_id": 21,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़्हदक् ंउनिचिपलित्य्"
   },
   {
     "id": 246,
     "name_en": "Shambhunath Municipality",
     "district_id": 21,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षम्भुनथ् ंउनिचिपलित्य्"
   },
   {
     "id": 247,
     "name_en": "Saptakoshi Municipality",
     "district_id": 21,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षप्तकोशि ंउनिचिपलित्य्"
   },
   {
     "id": 248,
     "name_en": "Surunga Municipality",
     "district_id": 21,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षुरुन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 249,
     "name_en": "Rajbiraj Municipality",
     "district_id": 21,
-    "ward_count": 16
+    "ward_count": 16,
+    "name_np": "ऱज्बिरज् ंउनिचिपलित्य्"
   },
   {
     "id": 250,
     "name_en": "Agnisaira Krishnasavaran Rural Municipality",
     "district_id": 21,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आग्निसैर ख़्रिश्नसवरन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 251,
     "name_en": "Balan-Bihul Rural Municipality",
     "district_id": 21,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअलन्-Bइहुल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 252,
     "name_en": "Rajgadh Rural Municipality",
     "district_id": 21,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱज्गध् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 253,
     "name_en": "Bishnupur Rural Municipality",
     "district_id": 21,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bइश्नुपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 254,
     "name_en": "Chhinnamasta Rural Municipality",
     "district_id": 21,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छ्हिन्नमस्त ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 255,
     "name_en": "Mahadeva Rural Municipality",
     "district_id": 21,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअहदेव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 256,
     "name_en": "Rupani Rural Municipality",
     "district_id": 21,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱुपनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 257,
     "name_en": "Tilathi Koiladi Rural Municipality",
     "district_id": 21,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "टिलथि ख़ोइलदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 258,
     "name_en": "Tirhut Rural Municipality",
     "district_id": 21,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "टिर्हुत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 259,
     "name_en": "Aaurahi Municipality",
     "district_id": 22,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "आऔरहि ंउनिचिपलित्य्"
   },
   {
     "id": 260,
     "name_en": "Balawa Municipality",
     "district_id": 22,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bअलव ंउनिचिपलित्य्"
   },
   {
     "id": 261,
     "name_en": "Bardibas Municipality",
     "district_id": 22,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Bअर्दिबस् ंउनिचिपलित्य्"
   },
   {
     "id": 262,
     "name_en": "Bhangaha Municipality",
     "district_id": 22,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहन्गह ंउनिचिपलित्य्"
   },
   {
     "id": 263,
     "name_en": "Gaushala Municipality",
     "district_id": 22,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ग़ौशल ंउनिचिपलित्य्"
   },
   {
     "id": 264,
     "name_en": "Jaleshor Municipality",
     "district_id": 22,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ज़लेशोर् ंउनिचिपलित्य्"
   },
   {
     "id": 265,
     "name_en": "Loharpatti Municipality",
     "district_id": 22,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ळोहर्पत्ति ंउनिचिपलित्य्"
   },
   {
     "id": 266,
     "name_en": "Manara Shiswa Municipality",
     "district_id": 22,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंअनर षिस्व ंउनिचिपलित्य्"
   },
   {
     "id": 267,
     "name_en": "Matihani Municipality",
     "district_id": 22,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअतिहनि ंउनिचिपलित्य्"
   },
   {
     "id": 268,
     "name_en": "Ramgopalpur Municipality",
     "district_id": 22,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱम्गोपल्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 269,
     "name_en": "Ekdara Rural Municipality",
     "district_id": 22,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Eक्दर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 270,
     "name_en": "Mahottari Rural Municipality",
     "district_id": 22,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअहोत्तरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 271,
     "name_en": "Pipara Rural Municipality",
     "district_id": 22,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pइपर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 272,
     "name_en": "Samsi Rural Municipality",
     "district_id": 22,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षम्सि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 273,
     "name_en": "Sonama Rural Municipality",
     "district_id": 22,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षोनम ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 274,
     "name_en": "Bhaktapur Municipality",
     "district_id": 23,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bहक्तपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 275,
     "name_en": "Changunarayan Municipality",
     "district_id": 23,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "छन्गुनरयन् ंउनिचिपलित्य्"
   },
   {
     "id": 276,
     "name_en": "Suryabinayak Municipality",
     "district_id": 23,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "षुर्यबिनयक् ंउनिचिपलित्य्"
   },
   {
     "id": 277,
     "name_en": "Madhyapur Thimi Municipality",
     "district_id": 23,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअध्यपुर् ठिमि ंउनिचिपलित्य्"
   },
   {
     "id": 278,
     "name_en": "Bharatpur Metropolitan City",
     "district_id": 24,
-    "ward_count": 29
+    "ward_count": 29,
+    "name_np": "Bहरत्पुर् ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 279,
     "name_en": "Kalika Municipality",
     "district_id": 24,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़लिक ंउनिचिपलित्य्"
   },
   {
     "id": 280,
     "name_en": "Khairhani Municipality",
     "district_id": 24,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "ख़्हैर्हनि ंउनिचिपलित्य्"
   },
   {
     "id": 281,
     "name_en": "Madi Municipality",
     "district_id": 24,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअदि ंउनिचिपलित्य्"
   },
   {
     "id": 282,
     "name_en": "Ratnagar Municipality",
     "district_id": 24,
-    "ward_count": 16
+    "ward_count": 16,
+    "name_np": "ऱत्नगर् ंउनिचिपलित्य्"
   },
   {
     "id": 283,
     "name_en": "Rapti Municipality",
     "district_id": 24,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "ऱप्ति ंउनिचिपलित्य्"
   },
   {
     "id": 284,
     "name_en": "Ichchhakamana Rural Municipality",
     "district_id": 24,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ईच्छकमन ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 285,
     "name_en": "Dhunibeshi Municipality",
     "district_id": 25,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ढुनिबेशि ंउनिचिपलित्य्"
   },
   {
     "id": 286,
     "name_en": "Nilkantha Municipality",
     "district_id": 25,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "णिल्कन्थ ंउनिचिपलित्य्"
   },
   {
     "id": 287,
     "name_en": "Khaniyabas Rural Municipality",
     "district_id": 25,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़्हनियबस् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 288,
     "name_en": "Gajuri Rural Municipality",
     "district_id": 25,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ग़जुरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 289,
     "name_en": "Galchhi Rural Municipality",
     "district_id": 25,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ग़ल्छि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 290,
     "name_en": "Gangajamuna Rural Municipality",
     "district_id": 25,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़न्गजमुन ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 291,
     "name_en": "Jwalamukhi Rural Municipality",
     "district_id": 25,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ज़्वलमुखि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 292,
     "name_en": "Thakre Rural Municipality",
     "district_id": 25,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ठक्रे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 293,
     "name_en": "Netrawati Dabjong Rural Municipality",
     "district_id": 25,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णेत्रवति डब्जोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 294,
     "name_en": "Benighat Rorang Rural Municipality",
     "district_id": 25,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bएनिघत् ऱोरन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 295,
     "name_en": "Rubi Valley Rural Municipality",
     "district_id": 25,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱुबि Vअल्लेय् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 296,
     "name_en": "Siddhalek Rural Municipality",
     "district_id": 25,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षिद्धलेक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 297,
     "name_en": "Tripurasundari Rural Municipality",
     "district_id": 25,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ट्रिपुरसुन्दरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 298,
     "name_en": "Bhimeswor Municipality",
     "district_id": 26,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहिमेस्वोर् ंउनिचिपलित्य्"
   },
   {
     "id": 299,
     "name_en": "Jiri Municipality",
     "district_id": 26,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ज़िरि ंउनिचिपलित्य्"
   },
   {
     "id": 300,
     "name_en": "Kalinchok Rural Municipality",
     "district_id": 26,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़लिन्चोक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 301,
     "name_en": "Melung Rural Municipality",
     "district_id": 26,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंएलुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 302,
     "name_en": "Bigu Rural Municipality",
     "district_id": 26,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bइगु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 303,
     "name_en": "Gaurishankar Rural Municipality",
     "district_id": 26,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ौरिशन्कर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 304,
     "name_en": "Baiteshowr Rural Municipality",
     "district_id": 26,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bऐतेशोव्र् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 305,
     "name_en": "Sailung Rural Municipality",
     "district_id": 26,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षैलुन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 306,
     "name_en": "Tamakoshi Rural Municipality",
     "district_id": 26,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "टमकोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 307,
     "name_en": "Kathmandu Metropolitan City",
     "district_id": 27,
-    "ward_count": 32
+    "ward_count": 32,
+    "name_np": "ख़थ्मन्दु ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 308,
     "name_en": "Gokarneshwar Municipality",
     "district_id": 27,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ोकर्नेश्वर् ंउनिचिपलित्य्"
   },
   {
     "id": 309,
     "name_en": "Kirtipur Municipality",
     "district_id": 27,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ख़िर्तिपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 310,
     "name_en": "Kageshwari-Manohara Municipality",
     "district_id": 27,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़गेश्वरि-ंअनोहर ंउनिचिपलित्य्"
   },
   {
     "id": 311,
     "name_en": "Chandragiri Municipality",
     "district_id": 27,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "छन्द्रगिरि ंउनिचिपलित्य्"
   },
   {
     "id": 312,
     "name_en": "Tokha Municipality",
     "district_id": 27,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "टोख ंउनिचिपलित्य्"
   },
   {
     "id": 313,
     "name_en": "Tarakeshwar Municipality",
     "district_id": 27,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "टरकेश्वर् ंउनिचिपलित्य्"
   },
   {
     "id": 314,
     "name_en": "Dakshinkali Municipality",
     "district_id": 27,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "डक्शिन्कलि ंउनिचिपलित्य्"
   },
   {
     "id": 315,
     "name_en": "Nagarjun Municipality",
     "district_id": 27,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "णगर्जुन् ंउनिचिपलित्य्"
   },
   {
     "id": 316,
     "name_en": "Budhalikantha Municipality",
     "district_id": 27,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bउधलिकन्थ ंउनिचिपलित्य्"
   },
   {
     "id": 317,
     "name_en": "Shankharapur Municipality",
     "district_id": 27,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षन्खरपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 318,
     "name_en": "Dhulikhel Municipality",
     "district_id": 28,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ढुलिखेल् ंउनिचिपलित्य्"
   },
   {
     "id": 319,
     "name_en": "Namobuddha Municipality",
     "district_id": 28,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "णमोबुद्ध ंउनिचिपलित्य्"
   },
   {
     "id": 320,
     "name_en": "Panauti Municipality",
     "district_id": 28,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Pअनौति ंउनिचिपलित्य्"
   },
   {
     "id": 321,
     "name_en": "Panchkhal Municipality",
     "district_id": 28,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Pअन्च्खल् ंउनिचिपलित्य्"
   },
   {
     "id": 322,
     "name_en": "Banepa Municipality",
     "district_id": 28,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Bअनेप ंउनिचिपलित्य्"
   },
   {
     "id": 323,
     "name_en": "Mandandeupur Municipality",
     "district_id": 28,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ंअन्दन्देउपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 324,
     "name_en": "Khani Khola Rural Municipality",
     "district_id": 28,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़्हनि ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 325,
     "name_en": "Chauri Deurali Rural Municipality",
     "district_id": 28,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "छौरि डेउरलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 326,
     "name_en": "Temal Rural Municipality",
     "district_id": 28,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "टेमल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 327,
     "name_en": "Bethanchok Rural Municipality",
     "district_id": 28,
-    "ward_count": 4
+    "ward_count": 4,
+    "name_np": "Bएथन्चोक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 328,
     "name_en": "Bhumlu Rural Municipality",
     "district_id": 28,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bहुम्लु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 329,
     "name_en": "Mahabharat Rural Municipality",
     "district_id": 28,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअहभरत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 330,
     "name_en": "Roshi Rural Municipality",
     "district_id": 28,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ऱोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 331,
     "name_en": "Lalitpur Metropolitan City",
     "district_id": 29,
-    "ward_count": 29
+    "ward_count": 29,
+    "name_np": "ळलित्पुर् ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 332,
     "name_en": "Mahalaxmi Municipality",
     "district_id": 29,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंअहलक्ष्मि ंउनिचिपलित्य्"
   },
   {
     "id": 333,
     "name_en": "Godawari Municipality",
     "district_id": 29,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ग़ोदवरि ंउनिचिपलित्य्"
   },
   {
     "id": 334,
     "name_en": "Konjyosom Rural Municipality",
     "district_id": 29,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़ोन्ज्योसोम् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 335,
     "name_en": "Bagmati Rural Municipality",
     "district_id": 29,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bअग्मति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 336,
     "name_en": "Mahankal Rural Municipality",
     "district_id": 29,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअहन्कल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 337,
     "name_en": "Hetauda Sub-Metropolitan City",
     "district_id": 30,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "ःएतौद षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 338,
     "name_en": "Thaha Municipality",
     "district_id": 30,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ठह ंउनिचिपलित्य्"
   },
   {
     "id": 339,
     "name_en": "Bhimphedi Rural Municipality",
     "district_id": 30,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहिम्फेदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 340,
     "name_en": "Makawanpurgadhi Rural Municipality",
     "district_id": 30,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअकवन्पुर्गधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 341,
     "name_en": "Manahari Rural Municipality",
     "district_id": 30,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअनहरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 342,
     "name_en": "Raksirang Rural Municipality",
     "district_id": 30,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱक्सिरन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 343,
     "name_en": "Bakaiya Rural Municipality",
     "district_id": 30,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Bअकैय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 344,
     "name_en": "Bagmati Rural Municipality",
     "district_id": 30,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअग्मति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 345,
     "name_en": "Kailash Rural Municipality",
     "district_id": 30,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ख़ैलश् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 346,
     "name_en": "Indrasarowar Rural Municipality",
     "district_id": 30,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ईन्द्रसरोवर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 347,
     "name_en": "Bidur Municipality",
     "district_id": 31,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bइदुर् ंउनिचिपलित्य्"
   },
   {
     "id": 348,
     "name_en": "Belkotgadhi Municipality",
     "district_id": 31,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bएल्कोत्गधि ंउनिचिपलित्य्"
   },
   {
     "id": 349,
     "name_en": "Kakani Rural Municipality",
     "district_id": 31,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़कनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 350,
     "name_en": "Panchakanya Rural Municipality",
     "district_id": 31,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pअन्चकन्य ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 351,
     "name_en": "Likhu Rural Municipality",
     "district_id": 31,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ळिखु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 352,
     "name_en": "Dupcheshwar Rural Municipality",
     "district_id": 31,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डुप्चेश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 353,
     "name_en": "Shivapuri Rural Municipality",
     "district_id": 31,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षिवपुरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 354,
     "name_en": "Tadi Rural Municipality",
     "district_id": 31,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "टदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 355,
     "name_en": "Suryagadhi Rural Municipality",
     "district_id": 31,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षुर्यगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 356,
     "name_en": "Tarkeshwar Rural Municipality",
     "district_id": 31,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "टर्केश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 357,
     "name_en": "Kispang Rural Municipality",
     "district_id": 31,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़िस्पन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 358,
     "name_en": "Myagang Rural Municipality",
     "district_id": 31,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंयगन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 359,
     "name_en": "Manthali Municipality",
     "district_id": 32,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ंअन्थलि ंउनिचिपलित्य्"
   },
   {
     "id": 360,
     "name_en": "Ramechhap Municipality",
     "district_id": 32,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱमेछप् ंउनिचिपलित्य्"
   },
   {
     "id": 361,
     "name_en": "Umakunda Rural Municipality",
     "district_id": 32,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऊमकुन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 362,
     "name_en": "Khandadevi Rural Municipality",
     "district_id": 32,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़्हन्ददेवि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 363,
     "name_en": "Doramba Rural Municipality",
     "district_id": 32,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डोरम्ब ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 364,
     "name_en": "Gokulganga Rural Municipality",
     "district_id": 32,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़ोकुल्गन्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 365,
     "name_en": "LikhuTamakoshi Rural Municipality",
     "district_id": 32,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ळिखुटमकोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 366,
     "name_en": "Sunapati Rural Municipality",
     "district_id": 32,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षुनपति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 367,
     "name_en": "Kalika Rural Municipality",
     "district_id": 33,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़लिक ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 368,
     "name_en": "Gosaikunda Rural Municipality",
     "district_id": 33,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़ोसैकुन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 369,
     "name_en": "Naukunda Rural Municipality",
     "district_id": 33,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "णौकुन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 370,
     "name_en": "Parbatikunda Rural Municipality",
     "district_id": 33,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pअर्बतिकुन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 371,
     "name_en": "Uttargaya Rural Municipality",
     "district_id": 33,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ऊत्तर्गय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 372,
     "name_en": "Kamalamai Municipality",
     "district_id": 34,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ख़मलमै ंउनिचिपलित्य्"
   },
   {
     "id": 373,
     "name_en": "Dudhauli Municipality",
     "district_id": 34,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "डुधौलि ंउनिचिपलित्य्"
   },
   {
     "id": 374,
     "name_en": "Sunkoshi Rural Municipality",
     "district_id": 34,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षुन्कोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 375,
     "name_en": "Hariharpurgadhi Rural Municipality",
     "district_id": 34,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ःअरिहर्पुर्गधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 376,
     "name_en": "Tinpatan Rural Municipality",
     "district_id": 34,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "टिन्पतन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 377,
     "name_en": "Marin Rural Municipality",
     "district_id": 34,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअरिन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 378,
     "name_en": "Golanjor Rural Municipality",
     "district_id": 34,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़ोलन्जोर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 379,
     "name_en": "Phikkal Rural Municipality",
     "district_id": 34,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pहिक्कल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 380,
     "name_en": "Ghyanglekh Rural Municipality",
     "district_id": 34,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ग़्ह्यन्ग्लेख् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 381,
     "name_en": "Chautara Sangachowkgadi Municipality",
     "district_id": 35,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "छौतर षन्गचोव्क्गदि ंउनिचिपलित्य्"
   },
   {
     "id": 382,
     "name_en": "Bahrabise Municipality",
     "district_id": 35,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअह्रबिसे ंउनिचिपलित्य्"
   },
   {
     "id": 383,
     "name_en": "Melamchi Municipality",
     "district_id": 35,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "ंएलम्चि ंउनिचिपलित्य्"
   },
   {
     "id": 384,
     "name_en": "Balephi Rural Municipality",
     "district_id": 35,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bअलेफि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 385,
     "name_en": "Sunkoshi Rural Municipality",
     "district_id": 35,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षुन्कोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 386,
     "name_en": "Indrawati Rural Municipality",
     "district_id": 35,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ईन्द्रवति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 387,
     "name_en": "Jugal Rural Municipality",
     "district_id": 35,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ज़ुगल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 388,
     "name_en": "Panchpokhari Rural Municipality",
     "district_id": 35,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Pअन्च्पोखरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 389,
     "name_en": "Bhotekoshi Rural Municipality",
     "district_id": 35,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bहोतेकोशि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 390,
     "name_en": "Lisankhu Rural Municipality",
     "district_id": 35,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ळिसन्खु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 391,
     "name_en": "Helambu Rural Municipality",
     "district_id": 35,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःएलम्बु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 392,
     "name_en": "Tripurasundari Rural Municipality",
     "district_id": 35,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ट्रिपुरसुन्दरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 393,
     "name_en": "Baglung Municipality",
     "district_id": 36,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Bअग्लुन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 394,
     "name_en": "Dhorpatan Municipality",
     "district_id": 36,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ढोर्पतन् ंउनिचिपलित्य्"
   },
   {
     "id": 395,
     "name_en": "Galkot Municipality",
     "district_id": 36,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ग़ल्कोत् ंउनिचिपलित्य्"
   },
   {
     "id": 396,
     "name_en": "Jaimuni Municipality",
     "district_id": 36,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ज़ैमुनि ंउनिचिपलित्य्"
   },
   {
     "id": 397,
     "name_en": "Bareng Rural Municipality",
     "district_id": 36,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bअरेन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 398,
     "name_en": "Khathekhola Rural Municipality",
     "district_id": 36,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़्हथेखोल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 399,
     "name_en": "Taman Khola Rural Municipality",
     "district_id": 36,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "टमन् ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 400,
     "name_en": "Tara Khola Rural Municipality",
     "district_id": 36,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "टर ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 401,
     "name_en": "Nishi Khola Rural Municipality",
     "district_id": 36,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "णिशि ख़्होल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 402,
     "name_en": "Badigad Rural Municipality",
     "district_id": 36,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bअदिगद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 403,
     "name_en": "Gorkha Municipality",
     "district_id": 37,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ग़ोर्ख ंउनिचिपलित्य्"
   },
   {
     "id": 404,
     "name_en": "Palungtar Municipality",
     "district_id": 37,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pअलुन्ग्तर् ंउनिचिपलित्य्"
   },
   {
     "id": 405,
     "name_en": "Sulikot Rural Municipality",
     "district_id": 37,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षुलिकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 406,
     "name_en": "Siranchowk Rural Municipality",
     "district_id": 37,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षिरन्चोव्क् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 407,
     "name_en": "Ajirkot Rural Municipality",
     "district_id": 37,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "आजिर्कोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 408,
     "name_en": "Chumnubri Rural Municipality",
     "district_id": 37,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छुम्नुब्रि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 409,
     "name_en": "Dharche Rural Municipality",
     "district_id": 37,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ढर्चे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 410,
     "name_en": "Bhimsen Thapa Rural Municipality",
     "district_id": 37,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bहिम्सेन् ठप ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 411,
     "name_en": "Sahid Lakhan Rural Municipality",
     "district_id": 37,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षहिद् ळखन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 412,
     "name_en": "Aarughat Rural Municipality",
     "district_id": 37,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "आअरुघत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 413,
     "name_en": "Gandaki Rural Municipality",
     "district_id": 37,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ग़न्दकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 414,
     "name_en": "Pokhara Metropolitan City",
     "district_id": 38,
-    "ward_count": 33
+    "ward_count": 33,
+    "name_np": "Pओखर ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 415,
     "name_en": "Annapurna Rural Municipality",
     "district_id": 38,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "आन्नपुर्न ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 416,
     "name_en": "Machhapuchchhre Rural Municipality",
     "district_id": 38,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअछपुच्छ्रे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 417,
     "name_en": "Madi Rural Municipality",
     "district_id": 38,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ंअदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 418,
     "name_en": "Rupa Rural Municipality",
     "district_id": 38,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऱुप ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 419,
     "name_en": "Besisahar Municipality",
     "district_id": 39,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bएसिसहर् ंउनिचिपलित्य्"
   },
   {
     "id": 420,
     "name_en": "Madhya Nepal Municipality",
     "district_id": 39,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंअध्य णेपल् ंउनिचिपलित्य्"
   },
   {
     "id": 421,
     "name_en": "Rainas Municipality",
     "district_id": 39,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ऱैनस् ंउनिचिपलित्य्"
   },
   {
     "id": 422,
     "name_en": "Sundarbazar Municipality",
     "district_id": 39,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षुन्दर्बज़र् ंउनिचिपलित्य्"
   },
   {
     "id": 423,
     "name_en": "Dordi Rural Municipality",
     "district_id": 39,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "डोर्दि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 424,
     "name_en": "Dudhpokhari Rural Municipality",
     "district_id": 39,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "डुध्पोखरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 425,
     "name_en": "Kwhlosothar Rural Municipality",
     "district_id": 39,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़्व्ह्लोसोथर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 426,
     "name_en": "Marsyangdi Rural Municipality",
     "district_id": 39,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअर्स्यन्ग्दि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 427,
     "name_en": "Chame Rural Municipality",
     "district_id": 40,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "छमे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 428,
     "name_en": "Nason Rural Municipality",
     "district_id": 40,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "णसोन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 429,
     "name_en": "NarpaBhumi Rural Municipality",
     "district_id": 40,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णर्पBहुमि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 430,
     "name_en": "Manang Ngisyang Rural Municipality",
     "district_id": 40,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअनन्ग् ण्गिस्यन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 431,
     "name_en": "Gharpajhong Rural Municipality",
     "district_id": 41,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ग़्हर्पझोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 432,
     "name_en": "Thasang Rural Municipality",
     "district_id": 41,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ठसन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 433,
     "name_en": "Barhagaun Muktichhetra Rural Municipality",
     "district_id": 41,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bअर्हगौन् ंउक्तिछेत्र ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 434,
     "name_en": "Lomanthang Rural Municipality",
     "district_id": 41,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ळोमन्थन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 435,
     "name_en": "Lo-Ghekar Damodarkunda Rural Municipality",
     "district_id": 41,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ळो-ग़्हेकर् डमोदर्कुन्द ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 436,
     "name_en": "Beni Municipality",
     "district_id": 42,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bएनि ंउनिचिपलित्य्"
   },
   {
     "id": 437,
     "name_en": "Annapurna Rural Municipality",
     "district_id": 42,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "आन्नपुर्न ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 438,
     "name_en": "Dhaulagiri Rural Municipality",
     "district_id": 42,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ढौलगिरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 439,
     "name_en": "Mangala Rural Municipality",
     "district_id": 42,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ंअन्गल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 440,
     "name_en": "Malika Rural Municipality",
     "district_id": 42,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअलिक ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 441,
     "name_en": "Raghuganga Rural Municipality",
     "district_id": 42,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱघुगन्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 442,
     "name_en": "Kawasoti Municipality",
     "district_id": 43,
-    "ward_count": 17
+    "ward_count": 17,
+    "name_np": "ख़वसोति ंउनिचिपलित्य्"
   },
   {
     "id": 443,
     "name_en": "Gaindakot Municipality",
     "district_id": 43,
-    "ward_count": 18
+    "ward_count": 18,
+    "name_np": "ग़ैन्दकोत् ंउनिचिपलित्य्"
   },
   {
     "id": 444,
     "name_en": "Devachuli Municipality",
     "district_id": 43,
-    "ward_count": 17
+    "ward_count": 17,
+    "name_np": "डेवचुलि ंउनिचिपलित्य्"
   },
   {
     "id": 445,
     "name_en": "Madhya Bindu Municipality",
     "district_id": 43,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "ंअध्य Bइन्दु ंउनिचिपलित्य्"
   },
   {
     "id": 446,
     "name_en": "Baudikali Rural Municipality",
     "district_id": 43,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bऔदिकलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 447,
     "name_en": "Bulingtar Rural Municipality",
     "district_id": 43,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bउलिन्ग्तर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 448,
     "name_en": "Binayi Tribeni Rural Municipality",
     "district_id": 43,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bइनयि ट्रिबेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 449,
     "name_en": "Hupsekot Rural Municipality",
     "district_id": 43,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ःउप्सेकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 450,
     "name_en": "Kushma Municipality",
     "district_id": 44,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ख़ुश्म ंउनिचिपलित्य्"
   },
   {
     "id": 451,
     "name_en": "Phalewas Municipality",
     "district_id": 44,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Pहलेवस् ंउनिचिपलित्य्"
   },
   {
     "id": 452,
     "name_en": "Jaljala Rural Municipality",
     "district_id": 44,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ज़ल्जल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 453,
     "name_en": "Paiyun Rural Municipality",
     "district_id": 44,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pऐयुन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 454,
     "name_en": "Mahashila Rural Municipality",
     "district_id": 44,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअहशिल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 455,
     "name_en": "Modi Rural Municipality",
     "district_id": 44,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंओदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 456,
     "name_en": "Bihadi Rural Municipality",
     "district_id": 44,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bइहदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 457,
     "name_en": "Galyang Municipality",
     "district_id": 45,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ग़ल्यन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 458,
     "name_en": "Chapakot Municipality",
     "district_id": 45,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छपकोत् ंउनिचिपलित्य्"
   },
   {
     "id": 459,
     "name_en": "Putalibazar Municipality",
     "district_id": 45,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Pउतलिबज़र् ंउनिचिपलित्य्"
   },
   {
     "id": 460,
     "name_en": "Bheerkot Municipality",
     "district_id": 45,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहीर्कोत् ंउनिचिपलित्य्"
   },
   {
     "id": 461,
     "name_en": "Waling Municipality",
     "district_id": 45,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Wअलिन्ग् ंउनिचिपलित्य्"
   },
   {
     "id": 462,
     "name_en": "Arjun Chaupari Rural Municipality",
     "district_id": 45,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आर्जुन् छौपरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 463,
     "name_en": "Aandhikhola Rural Municipality",
     "district_id": 45,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आअन्धिखोल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 464,
     "name_en": "Kaligandaki Rural Municipality",
     "district_id": 45,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़लिगन्दकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 465,
     "name_en": "Phedikhola Rural Municipality",
     "district_id": 45,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Pहेदिखोल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 466,
     "name_en": "Harinas Rural Municipality",
     "district_id": 45,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःअरिनस् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 467,
     "name_en": "Biruwa Rural Municipality",
     "district_id": 45,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bइरुव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 468,
     "name_en": "Bhanu Municipality",
     "district_id": 46,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bहनु ंउनिचिपलित्य्"
   },
   {
     "id": 469,
     "name_en": "Bhimad Municipality",
     "district_id": 46,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहिमद् ंउनिचिपलित्य्"
   },
   {
     "id": 470,
     "name_en": "Byas Municipality",
     "district_id": 46,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Bयस् ंउनिचिपलित्य्"
   },
   {
     "id": 471,
     "name_en": "Suklagandaki Municipality",
     "district_id": 46,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षुक्लगन्दकि ंउनिचिपलित्य्"
   },
   {
     "id": 472,
     "name_en": "AnbuKhaireni Rural Municipality",
     "district_id": 46,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आन्बुख़्हैरेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 473,
     "name_en": "Devghat Rural Municipality",
     "district_id": 46,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "डेव्घत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 474,
     "name_en": "Bandipur Rural Municipality",
     "district_id": 46,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअन्दिपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 475,
     "name_en": "Rishing Rural Municipality",
     "district_id": 46,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱिशिन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 476,
     "name_en": "Ghiring Rural Municipality",
     "district_id": 46,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ग़्हिरिन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 477,
     "name_en": "Myagde Rural Municipality",
     "district_id": 46,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंयग्दे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 478,
     "name_en": "Kapilvastu Municipality",
     "district_id": 47,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ख़पिल्वस्तु ंउनिचिपलित्य्"
   },
   {
     "id": 479,
     "name_en": "Banganga Municipality",
     "district_id": 47,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bअन्गन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 480,
     "name_en": "Buddhabhumi Municipality",
     "district_id": 47,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bउद्धभुमि ंउनिचिपलित्य्"
   },
   {
     "id": 481,
     "name_en": "Shivaraj Municipality",
     "district_id": 47,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षिवरज् ंउनिचिपलित्य्"
   },
   {
     "id": 482,
     "name_en": "Krishnanagar Municipality",
     "district_id": 47,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ख़्रिश्ननगर् ंउनिचिपलित्य्"
   },
   {
     "id": 483,
     "name_en": "Maharajgunj Municipality",
     "district_id": 47,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ंअहरज्गुन्ज् ंउनिचिपलित्य्"
   },
   {
     "id": 484,
     "name_en": "Mayadevi Rural Municipality",
     "district_id": 47,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअयदेवि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 485,
     "name_en": "Yashodhara Rural Municipality",
     "district_id": 47,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "य़शोधर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 486,
     "name_en": "Suddhodan Rural Municipality",
     "district_id": 47,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षुद्धोदन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 487,
     "name_en": "Bijaynagar Rural Municipality",
     "district_id": 47,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bइजय्नगर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 488,
     "name_en": "Bardaghat Municipality",
     "district_id": 48,
-    "ward_count": 16
+    "ward_count": 16,
+    "name_np": "Bअर्दघत् ंउनिचिपलित्य्"
   },
   {
     "id": 489,
     "name_en": "Ramgram Municipality",
     "district_id": 48,
-    "ward_count": 18
+    "ward_count": 18,
+    "name_np": "ऱम्ग्रम् ंउनिचिपलित्य्"
   },
   {
     "id": 490,
     "name_en": "Sunwal Municipality",
     "district_id": 48,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "षुन्वल् ंउनिचिपलित्य्"
   },
   {
     "id": 491,
     "name_en": "Susta Rural Municipality",
     "district_id": 48,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षुस्त ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 492,
     "name_en": "Palhi Nandan Rural Municipality",
     "district_id": 48,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pअल्हि णन्दन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 493,
     "name_en": "Pratappur Rural Municipality",
     "district_id": 48,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pरतप्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 494,
     "name_en": "Sarawal Rural Municipality",
     "district_id": 48,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षरवल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 495,
     "name_en": "Butwal Sub-Metropolitan City",
     "district_id": 49,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "Bउत्वल् षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 496,
     "name_en": "Devdaha Municipality",
     "district_id": 49,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "डेव्दह ंउनिचिपलित्य्"
   },
   {
     "id": 497,
     "name_en": "Lumbini Sanskritik Municipality",
     "district_id": 49,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "ळुम्बिनि षन्स्क्रितिक् ंउनिचिपलित्य्"
   },
   {
     "id": 498,
     "name_en": "Sainamaina Municipality",
     "district_id": 49,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षैनमैन ंउनिचिपलित्य्"
   },
   {
     "id": 499,
     "name_en": "Siddharthanagar Municipality",
     "district_id": 49,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "षिद्धर्थनगर् ंउनिचिपलित्य्"
   },
   {
     "id": 500,
     "name_en": "Tilottama Municipality",
     "district_id": 49,
-    "ward_count": 17
+    "ward_count": 17,
+    "name_np": "टिलोत्तम ंउनिचिपलित्य्"
   },
   {
     "id": 501,
     "name_en": "Gaidahawa Rural Municipality",
     "district_id": 49,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ग़ैदहव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 502,
     "name_en": "Kanchan Rural Municipality",
     "district_id": 49,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़न्चन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 503,
     "name_en": "Kotahimai Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़ोतहिमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 504,
     "name_en": "Marchawari Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअर्चवरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 505,
     "name_en": "Mayadevi Rural Municipality",
     "district_id": 49,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअयदेवि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 506,
     "name_en": "Omsatiya Rural Municipality",
     "district_id": 49,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Oम्सतिय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 507,
     "name_en": "Rohini Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऱोहिनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 508,
     "name_en": "Sammarimai Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षम्मरिमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 509,
     "name_en": "Siyari Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षियरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 510,
     "name_en": "Suddodhan Rural Municipality",
     "district_id": 49,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षुद्दोधन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 511,
     "name_en": "Sandhikharka Municipality",
     "district_id": 50,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षन्धिखर्क ंउनिचिपलित्य्"
   },
   {
     "id": 512,
     "name_en": "Sitganga Municipality",
     "district_id": 50,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "षित्गन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 513,
     "name_en": "Bhumikasthan Municipality",
     "district_id": 50,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bहुमिकस्थन् ंउनिचिपलित्य्"
   },
   {
     "id": 514,
     "name_en": "Chhatradev Rural Municipality",
     "district_id": 50,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "छ्हत्रदेव् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 515,
     "name_en": "Panini Rural Municipality",
     "district_id": 50,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Pअनिनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 516,
     "name_en": "Malarani Rural Municipality",
     "district_id": 50,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअलरनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 517,
     "name_en": "Resunga Municipality",
     "district_id": 51,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ऱेसुन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 518,
     "name_en": "Musikot Municipality",
     "district_id": 51,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंउसिकोत् ंउनिचिपलित्य्"
   },
   {
     "id": 519,
     "name_en": "Rurukshetra Rural Municipality",
     "district_id": 51,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ऱुरुक्शेत्र ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 520,
     "name_en": "Chhatrakot Rural Municipality",
     "district_id": 51,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छ्हत्रकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 521,
     "name_en": "Gulmidarbar Rural Municipality",
     "district_id": 51,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़ुल्मिदर्बर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 522,
     "name_en": "Chandrakot Rural Municipality",
     "district_id": 51,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "छन्द्रकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 523,
     "name_en": "Satyawati Rural Municipality",
     "district_id": 51,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षत्यवति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 524,
     "name_en": "Dhurkot Rural Municipality",
     "district_id": 51,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ढुर्कोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 525,
     "name_en": "Kaligandaki Rural Municipality",
     "district_id": 51,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़लिगन्दकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 526,
     "name_en": "Isma Rural Municipality",
     "district_id": 51,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ईस्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 527,
     "name_en": "Malika Rural Municipality",
     "district_id": 51,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअलिक ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 528,
     "name_en": "Madane Rural Municipality",
     "district_id": 51,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअदने ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 529,
     "name_en": "Tansen Municipality",
     "district_id": 52,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "टन्सेन् ंउनिचिपलित्य्"
   },
   {
     "id": 530,
     "name_en": "Rampur Municipality",
     "district_id": 52,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ऱम्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 531,
     "name_en": "Rainadevi Chhahara Rural Municipality",
     "district_id": 52,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱैनदेवि छ्हहर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 532,
     "name_en": "Ripdikot Rural Municipality",
     "district_id": 52,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ऱिप्दिकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 533,
     "name_en": "Bagnaskali Rural Municipality",
     "district_id": 52,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअग्नस्कलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 534,
     "name_en": "Rambha Rural Municipality",
     "district_id": 52,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ऱम्भ ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 535,
     "name_en": "Purbakhola Rural Municipality",
     "district_id": 52,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pउर्बखोल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 536,
     "name_en": "Nisdi Rural Municipality",
     "district_id": 52,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "णिस्दि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 537,
     "name_en": "Mathagadhi Rural Municipality",
     "district_id": 52,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअथगधि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 538,
     "name_en": "Tinahu Rural Municipality",
     "district_id": 52,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "टिनहु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 539,
     "name_en": "Ghorahi Sub-Metropolitan City",
     "district_id": 53,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "ग़्होरहि षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 540,
     "name_en": "Tulsipur Sub-Metropolitan City",
     "district_id": 53,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "टुल्सिपुर् षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 541,
     "name_en": "Lamahi Municipality",
     "district_id": 53,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ळमहि ंउनिचिपलित्य्"
   },
   {
     "id": 542,
     "name_en": "Gadhawa Rural Municipality",
     "district_id": 53,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ग़धव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 543,
     "name_en": "Rajpur Rural Municipality",
     "district_id": 53,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऱज्पुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 544,
     "name_en": "Shantinagar Rural Municipality",
     "district_id": 53,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षन्तिनगर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 545,
     "name_en": "Rapti Rural Municipality",
     "district_id": 53,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱप्ति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 546,
     "name_en": "Banglachuli Rural Municipality",
     "district_id": 53,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bअन्ग्लचुलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 547,
     "name_en": "Dangisharan Rural Municipality",
     "district_id": 53,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डन्गिशरन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 548,
     "name_en": "Babai Rural Municipality",
     "district_id": 53,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bअबै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 549,
     "name_en": "Sworgadwari Municipality",
     "district_id": 54,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ष्वोर्गद्वरि ंउनिचिपलित्य्"
   },
   {
     "id": 550,
     "name_en": "Pyuthan Municipality",
     "district_id": 54,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pयुथन् ंउनिचिपलित्य्"
   },
   {
     "id": 551,
     "name_en": "Mandavi Rural Municipality",
     "district_id": 54,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ंअन्दवि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 552,
     "name_en": "Sarumarani Rural Municipality",
     "district_id": 54,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षरुमरनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 553,
     "name_en": "Ayirawati Rural Municipality",
     "district_id": 54,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आयिरवति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 554,
     "name_en": "Mallarani Rural Municipality",
     "district_id": 54,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ंअल्लरनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 555,
     "name_en": "Jhimruk Rural Municipality",
     "district_id": 54,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ज़्हिम्रुक् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 556,
     "name_en": "Naubahini Rural Municipality",
     "district_id": 54,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "णौबहिनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 557,
     "name_en": "Gaumukhi Rural Municipality",
     "district_id": 54,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़ौमुखि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 558,
     "name_en": "Rolpa Municipality",
     "district_id": 55,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ऱोल्प ंउनिचिपलित्य्"
   },
   {
     "id": 559,
     "name_en": "Runtigadi Rural Municipality",
     "district_id": 55,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱुन्तिगदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 560,
     "name_en": "Triveni Rural Municipality",
     "district_id": 55,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ट्रिवेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 561,
     "name_en": "Sunil Smiriti Rural Municipality",
     "district_id": 55,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षुनिल् ष्मिरिति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 562,
     "name_en": "Lungri Rural Municipality",
     "district_id": 55,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ळुन्ग्रि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 563,
     "name_en": "Sunchhahari Rural Municipality",
     "district_id": 55,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "षुन्छहरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 564,
     "name_en": "Thawang Rural Municipality",
     "district_id": 55,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ठवन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 565,
     "name_en": "Madi Rural Municipality",
     "district_id": 55,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 566,
     "name_en": "GangaDev Rural Municipality",
     "district_id": 55,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ग़न्गडेव् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 567,
     "name_en": "Pariwartan Rural Municipality",
     "district_id": 55,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pअरिवर्तन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 568,
     "name_en": "Putha Uttarganga Rural Municipality",
     "district_id": 56,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "Pउथ ऊत्तर्गन्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 569,
     "name_en": "Bhume Rural Municipality",
     "district_id": 56,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहुमे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 570,
     "name_en": "Sisne Rural Municipality",
     "district_id": 56,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षिस्ने ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 571,
     "name_en": "Nepalgunj Sub-Metropolitan City",
     "district_id": 57,
-    "ward_count": 23
+    "ward_count": 23,
+    "name_np": "णेपल्गुन्ज् षुब्-ंएत्रोपोलितन् छित्य्"
   },
   {
     "id": 572,
     "name_en": "Kohalpur Municipality",
     "district_id": 57,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "ख़ोहल्पुर् ंउनिचिपलित्य्"
   },
   {
     "id": 573,
     "name_en": "Rapti-Sonari Rural Municipality",
     "district_id": 57,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱप्ति-षोनरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 574,
     "name_en": "Narainapur Rural Municipality",
     "district_id": 57,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "णरैनपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 575,
     "name_en": "Duduwa Rural Municipality",
     "district_id": 57,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "डुदुव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 576,
     "name_en": "Janaki Rural Municipality",
     "district_id": 57,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़नकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 577,
     "name_en": "Khajura Rural Municipality",
     "district_id": 57,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़्हजुर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 578,
     "name_en": "Baijanath Rural Municipality",
     "district_id": 57,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "Bऐजनथ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 579,
     "name_en": "Gulariya Municipality",
     "district_id": 58,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ग़ुलरिय ंउनिचिपलित्य्"
   },
   {
     "id": 580,
     "name_en": "Rajapur Municipality",
     "district_id": 58,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ऱजपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 581,
     "name_en": "Madhuwan Municipality",
     "district_id": 58,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअधुवन् ंउनिचिपलित्य्"
   },
   {
     "id": 582,
     "name_en": "Thakurbaba Municipality",
     "district_id": 58,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ठकुर्बब ंउनिचिपलित्य्"
   },
   {
     "id": 583,
     "name_en": "Basgadhi Municipality",
     "district_id": 58,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअस्गधि ंउनिचिपलित्य्"
   },
   {
     "id": 584,
     "name_en": "Barbardiya Municipality",
     "district_id": 58,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bअर्बर्दिय ंउनिचिपलित्य्"
   },
   {
     "id": 585,
     "name_en": "Badhaiyatal Rural Municipality",
     "district_id": 58,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअधैयतल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 586,
     "name_en": "Geruwa Rural Municipality",
     "district_id": 58,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़ेरुव ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 587,
     "name_en": "Aathabiskot Municipality",
     "district_id": 59,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "आअथबिस्कोत् ंउनिचिपलित्य्"
   },
   {
     "id": 588,
     "name_en": "Musikot Municipality",
     "district_id": 59,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ंउसिकोत् ंउनिचिपलित्य्"
   },
   {
     "id": 589,
     "name_en": "Chaurjahari Municipality",
     "district_id": 59,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "छौर्जहरि ंउनिचिपलित्य्"
   },
   {
     "id": 590,
     "name_en": "SaniBheri Rural Municipality",
     "district_id": 59,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षनिBहेरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 591,
     "name_en": "Triveni Rural Municipality",
     "district_id": 59,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ट्रिवेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 592,
     "name_en": "Banphikot Rural Municipality",
     "district_id": 59,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bअन्फिकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 593,
     "name_en": "Kumakh Rural Municipality",
     "district_id": 60,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़ुमख् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 594,
     "name_en": "Kalimati Rural Municipality",
     "district_id": 60,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़लिमति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 595,
     "name_en": "Chhatreshwari Rural Municipality",
     "district_id": 60,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छ्हत्रेश्वरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 596,
     "name_en": "Darma Rural Municipality",
     "district_id": 60,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "डर्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 597,
     "name_en": "Kapurkot Rural Municipality",
     "district_id": 60,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ख़पुर्कोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 598,
     "name_en": "Triveni Rural Municipality",
     "district_id": 60,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ट्रिवेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 599,
     "name_en": "Siddha Kumakh Rural Municipality",
     "district_id": 60,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षिद्ध ख़ुमख् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 600,
     "name_en": "Bagchaur Municipality",
     "district_id": 60,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Bअग्चौर् ंउनिचिपलित्य्"
   },
   {
     "id": 601,
     "name_en": "Shaarda Municipality",
     "district_id": 60,
-    "ward_count": 15
+    "ward_count": 15,
+    "name_np": "षार्द ंउनिचिपलित्य्"
   },
   {
     "id": 602,
     "name_en": "Bangad Kupinde Municipality",
     "district_id": 60,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Bअन्गद् ख़ुपिन्दे ंउनिचिपलित्य्"
   },
   {
     "id": 603,
     "name_en": "Mudkechula Rural Municipality",
     "district_id": 61,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंउद्केचुल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 604,
     "name_en": "Kaike Rural Municipality",
     "district_id": 61,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़ैके ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 605,
     "name_en": "She Phoksundo Rural Municipality",
     "district_id": 61,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षे Pहोक्सुन्दो ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 606,
     "name_en": "Jagadulla Rural Municipality",
     "district_id": 61,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़गदुल्ल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 607,
     "name_en": "Dolpo Buddha Rural Municipality",
     "district_id": 61,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "डोल्पो Bउद्ध ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 608,
     "name_en": "Chharka Tongsong Rural Municipality",
     "district_id": 61,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छ्हर्क टोन्ग्सोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 609,
     "name_en": "Thuli Bheri Municipality",
     "district_id": 61,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ठुलि Bहेरि ंउनिचिपलित्य्"
   },
   {
     "id": 610,
     "name_en": "Tripurasundari Municipality",
     "district_id": 61,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ट्रिपुरसुन्दरि ंउनिचिपलित्य्"
   },
   {
     "id": 611,
     "name_en": "Simkot Rural Municipality",
     "district_id": 62,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षिम्कोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 612,
     "name_en": "Sarkegad Rural Municipality",
     "district_id": 62,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षर्केगद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 613,
     "name_en": "Adanchuli Rural Municipality",
     "district_id": 62,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आदन्चुलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 614,
     "name_en": "Kharpunath Rural Municipality",
     "district_id": 62,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ख़्हर्पुनथ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 615,
     "name_en": "Tanjakot Rural Municipality",
     "district_id": 62,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "टन्जकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 616,
     "name_en": "Chankheli Rural Municipality",
     "district_id": 62,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छन्खेलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 617,
     "name_en": "Namkha Rural Municipality",
     "district_id": 62,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "णम्ख ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 618,
     "name_en": "Tatopani Rural Municipality",
     "district_id": 63,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "टतोपनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 619,
     "name_en": "Patarasi Rural Municipality",
     "district_id": 63,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pअतरसि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 620,
     "name_en": "Tila Rural Municipality",
     "district_id": 63,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "टिल ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 621,
     "name_en": "Kanaka Sundari Rural Municipality",
     "district_id": 63,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ख़नक षुन्दरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 622,
     "name_en": "Sinja Rural Municipality",
     "district_id": 63,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षिन्ज ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 623,
     "name_en": "Hima Rural Municipality",
     "district_id": 63,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःइम ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 624,
     "name_en": "Guthichaur Rural Municipality",
     "district_id": 63,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ग़ुथिचौर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 625,
     "name_en": "Chandannath Municipality",
     "district_id": 63,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छन्दन्नथ् ंउनिचिपलित्य्"
   },
   {
     "id": 626,
     "name_en": "Khandachakra Municipality",
     "district_id": 64,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़्हन्दचक्र ंउनिचिपलित्य्"
   },
   {
     "id": 627,
     "name_en": "Raskot Municipality",
     "district_id": 64,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ऱस्कोत् ंउनिचिपलित्य्"
   },
   {
     "id": 628,
     "name_en": "Tilagufa Municipality",
     "district_id": 64,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "टिलगुफ़ ंउनिचिपलित्य्"
   },
   {
     "id": 629,
     "name_en": "Narharinath Rural Municipality",
     "district_id": 64,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "णर्हरिनथ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 630,
     "name_en": "Palata Rural Municipality",
     "district_id": 64,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअलत ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 631,
     "name_en": "Shubha Kalika Rural Municipality",
     "district_id": 64,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षुभ ख़लिक ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 632,
     "name_en": "Sanni Triveni Rural Municipality",
     "district_id": 64,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षन्नि ट्रिवेनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 633,
     "name_en": "Pachaljharana Rural Municipality",
     "district_id": 64,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअचल्झरन ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 634,
     "name_en": "Mahawai Rural Municipality",
     "district_id": 64,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअहवै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 635,
     "name_en": "Khatyad Rural Municipality",
     "district_id": 65,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ख़्हत्यद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 636,
     "name_en": "Soru Rural Municipality",
     "district_id": 65,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षोरु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 637,
     "name_en": "Mugum Karmarong Rural Municipality",
     "district_id": 65,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंउगुम् ख़र्मरोन्ग् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 638,
     "name_en": "Chhayanath Rara Municipality",
     "district_id": 65,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "छ्हयनथ् ऱर ंउनिचिपलित्य्"
   },
   {
     "id": 639,
     "name_en": "Simta Rural Municipality",
     "district_id": 66,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षिम्त ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 640,
     "name_en": "Barahatal Rural Municipality",
     "district_id": 66,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bअरहतल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 641,
     "name_en": "Chaukune Rural Municipality",
     "district_id": 66,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "छौकुने ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 642,
     "name_en": "Chingad Rural Municipality",
     "district_id": 66,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छिन्गद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 643,
     "name_en": "Gurbhakot Municipality",
     "district_id": 66,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ग़ुर्भकोत् ंउनिचिपलित्य्"
   },
   {
     "id": 644,
     "name_en": "Birendranagar Municipality",
     "district_id": 66,
-    "ward_count": 16
+    "ward_count": 16,
+    "name_np": "Bइरेन्द्रनगर् ंउनिचिपलित्य्"
   },
   {
     "id": 645,
     "name_en": "Bheriganga Municipality",
     "district_id": 66,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bहेरिगन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 646,
     "name_en": "Panchapuri Municipality",
     "district_id": 66,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Pअन्चपुरि ंउनिचिपलित्य्"
   },
   {
     "id": 647,
     "name_en": "Lekbeshi Municipality",
     "district_id": 66,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ळेक्बेशि ंउनिचिपलित्य्"
   },
   {
     "id": 648,
     "name_en": "Dullu Municipality",
     "district_id": 67,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "डुल्लु ंउनिचिपलित्य्"
   },
   {
     "id": 649,
     "name_en": "Gurans Rural Municipality",
     "district_id": 67,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ग़ुरन्स् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 650,
     "name_en": "Bhairabi Rural Municipality",
     "district_id": 67,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bहैरबि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 651,
     "name_en": "Naumule Rural Municipality",
     "district_id": 67,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "णौमुले ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 652,
     "name_en": "Mahabu Rural Municipality",
     "district_id": 67,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअहबु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 653,
     "name_en": "Thantikandh Rural Municipality",
     "district_id": 67,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ठन्तिकन्ध् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 654,
     "name_en": "Bhagawatimai Rural Municipality",
     "district_id": 67,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bहगवतिमै ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 655,
     "name_en": "Dungeshwar Rural Municipality",
     "district_id": 67,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "डुन्गेश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 656,
     "name_en": "Aathabis Municipality",
     "district_id": 67,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "आअथबिस् ंउनिचिपलित्य्"
   },
   {
     "id": 657,
     "name_en": "Narayan Municipality",
     "district_id": 67,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "णरयन् ंउनिचिपलित्य्"
   },
   {
     "id": 658,
     "name_en": "Chamunda Bindrasaini Municipality",
     "district_id": 67,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "छमुन्द Bइन्द्रसैनि ंउनिचिपलित्य्"
   },
   {
     "id": 659,
     "name_en": "Chhedagad Municipality",
     "district_id": 68,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "छ्हेदगद् ंउनिचिपलित्य्"
   },
   {
     "id": 660,
     "name_en": "Bheri Municipality",
     "district_id": 68,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "Bहेरि ंउनिचिपलित्य्"
   },
   {
     "id": 661,
     "name_en": "Nalgad Municipality",
     "district_id": 68,
-    "ward_count": 13
+    "ward_count": 13,
+    "name_np": "णल्गद् ंउनिचिपलित्य्"
   },
   {
     "id": 662,
     "name_en": "Junichande Rural Municipality",
     "district_id": 68,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ज़ुनिचन्दे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 663,
     "name_en": "Kuse Rural Municipality",
     "district_id": 68,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़ुसे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 664,
     "name_en": "Barekot Rural Municipality",
     "district_id": 68,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअरेकोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 665,
     "name_en": "Shivalaya Rural Municipality",
     "district_id": 68,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षिवलय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 666,
     "name_en": "Mahakali Municipality",
     "district_id": 69,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंअहकलि ंउनिचिपलित्य्"
   },
   {
     "id": 667,
     "name_en": "Shailyashikhar Municipality",
     "district_id": 69,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षैल्यशिखर् ंउनिचिपलित्य्"
   },
   {
     "id": 668,
     "name_en": "Naugad Rural Municipality",
     "district_id": 69,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "णौगद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 669,
     "name_en": "Malikarjun Rural Municipality",
     "district_id": 69,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंअलिकर्जुन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 670,
     "name_en": "Marma Rural Municipality",
     "district_id": 69,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ंअर्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 671,
     "name_en": "Lekam Rural Municipality",
     "district_id": 69,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ळेकम् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 672,
     "name_en": "Duhun Rural Municipality",
     "district_id": 69,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "डुहुन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 673,
     "name_en": "Vyans Rural Municipality",
     "district_id": 69,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Vयन्स् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 674,
     "name_en": "Apihimal Rural Municipality",
     "district_id": 69,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आपिहिमल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 675,
     "name_en": "Jayaprithvi Municipality",
     "district_id": 70,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ज़यप्रिथ्वि ंउनिचिपलित्य्"
   },
   {
     "id": 676,
     "name_en": "Bungal Municipality",
     "district_id": 70,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Bउन्गल् ंउनिचिपलित्य्"
   },
   {
     "id": 677,
     "name_en": "Kedarsyu Rural Municipality",
     "district_id": 70,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़ेदर्स्यु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 678,
     "name_en": "Thalara Rural Municipality",
     "district_id": 70,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ठलर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 679,
     "name_en": "Bitthadchir Rural Municipality",
     "district_id": 70,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bइत्थद्चिर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 680,
     "name_en": "Chhabis Pathibhera Rural Municipality",
     "district_id": 70,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छ्हबिस् Pअथिभेर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 681,
     "name_en": "Khaptadchhanna Rural Municipality",
     "district_id": 70,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़्हप्तद्छन्न ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 682,
     "name_en": "Masta Rural Municipality",
     "district_id": 70,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंअस्त ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 683,
     "name_en": "Durgathali Rural Municipality",
     "district_id": 70,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डुर्गथलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 684,
     "name_en": "Talkot Rural Municipality",
     "district_id": 70,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "टल्कोत् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 685,
     "name_en": "Surma Rural Municipality",
     "district_id": 70,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षुर्म ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 686,
     "name_en": "Saipal Rural Municipality",
     "district_id": 70,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "षैपल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 687,
     "name_en": "Badimalika Municipality",
     "district_id": 71,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bअदिमलिक ंउनिचिपलित्य्"
   },
   {
     "id": 688,
     "name_en": "Triveni Municipality",
     "district_id": 71,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ट्रिवेनि ंउनिचिपलित्य्"
   },
   {
     "id": 689,
     "name_en": "Budhiganga Municipality",
     "district_id": 71,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bउधिगन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 690,
     "name_en": "Budhinanda Municipality",
     "district_id": 71,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bउधिनन्द ंउनिचिपलित्य्"
   },
   {
     "id": 691,
     "name_en": "Khaptad Chhededaha Rural Municipality",
     "district_id": 71,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़्हप्तद् छ्हेदेदह ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 692,
     "name_en": "Swami Kartik Khapar Rural Municipality",
     "district_id": 71,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ष्वमि ख़र्तिक् ख़्हपर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 693,
     "name_en": "Jagannath Rural Municipality",
     "district_id": 71,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़गन्नथ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 694,
     "name_en": "Himali Rural Municipality",
     "district_id": 71,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ःइमलि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 695,
     "name_en": "Gaumul Rural Municipality",
     "district_id": 71,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ग़ौमुल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 696,
     "name_en": "Dashrathchanda Municipality",
     "district_id": 72,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "डश्रथ्चन्द ंउनिचिपलित्य्"
   },
   {
     "id": 697,
     "name_en": "Patan Municipality",
     "district_id": 72,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pअतन् ंउनिचिपलित्य्"
   },
   {
     "id": 698,
     "name_en": "Melauli Municipality",
     "district_id": 72,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ंएलौलि ंउनिचिपलित्य्"
   },
   {
     "id": 699,
     "name_en": "Purchaudi Municipality",
     "district_id": 72,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Pउर्चौदि ंउनिचिपलित्य्"
   },
   {
     "id": 700,
     "name_en": "Dogdakedar Rural Municipality",
     "district_id": 72,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "डोग्दकेदर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 701,
     "name_en": "Dilashaini Rural Municipality",
     "district_id": 72,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "डिलशैनि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 702,
     "name_en": "Sigas Rural Municipality",
     "district_id": 72,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "षिगस् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 703,
     "name_en": "Pancheshwar Rural Municipality",
     "district_id": 72,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Pअन्चेश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 704,
     "name_en": "Surnaya Rural Municipality",
     "district_id": 72,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "षुर्नय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 705,
     "name_en": "Shivanath Rural Municipality",
     "district_id": 72,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षिवनथ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 706,
     "name_en": "Dipayal Silgadhi Municipality",
     "district_id": 73,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "डिपयल् षिल्गधि ंउनिचिपलित्य्"
   },
   {
     "id": 707,
     "name_en": "Shikhar Municipality",
     "district_id": 73,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "षिखर् ंउनिचिपलित्य्"
   },
   {
     "id": 708,
     "name_en": "Aadarsha Rural Municipality",
     "district_id": 73,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "आअदर्श ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 709,
     "name_en": "Purbichauki Rural Municipality",
     "district_id": 73,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Pउर्बिचौकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 710,
     "name_en": "K.I.Singh Rural Municipality",
     "district_id": 73,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ख़्।ई।षिन्घ् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 711,
     "name_en": "Jorayal Rural Municipality",
     "district_id": 73,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ज़ोरयल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 712,
     "name_en": "Sayal Rural Municipality",
     "district_id": 73,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "षयल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 713,
     "name_en": "Bogatan-Phudsil Rural Municipality",
     "district_id": 73,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "Bओगतन्-Pहुद्सिल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 714,
     "name_en": "Badikedar Rural Municipality",
     "district_id": 73,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bअदिकेदर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 715,
     "name_en": "Ramaroshan Rural Municipality",
     "district_id": 74,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ऱमरोशन् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 716,
     "name_en": "Chaurpati Rural Municipality",
     "district_id": 74,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "छौर्पति ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 717,
     "name_en": "Turmakhand Rural Municipality",
     "district_id": 74,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "टुर्मखन्द् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 718,
     "name_en": "Mellekh Rural Municipality",
     "district_id": 74,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ंएल्लेख् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 719,
     "name_en": "Dhakari Rural Municipality",
     "district_id": 74,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "ढकरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 720,
     "name_en": "Bannigadi Jayagad Rural Municipality",
     "district_id": 74,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअन्निगदि ज़यगद् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 721,
     "name_en": "Mangalsen Municipality",
     "district_id": 74,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "ंअन्गल्सेन् ंउनिचिपलित्य्"
   },
   {
     "id": 722,
     "name_en": "Kamalbazar Municipality",
     "district_id": 74,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ख़मल्बज़र् ंउनिचिपलित्य्"
   },
   {
     "id": 723,
     "name_en": "Sanfebagar Municipality",
     "district_id": 74,
-    "ward_count": 14
+    "ward_count": 14,
+    "name_np": "षन्फ़ेबगर् ंउनिचिपलित्य्"
   },
   {
     "id": 724,
     "name_en": "Panchadewal Binayak Municipality",
     "district_id": 74,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Pअन्चदेवल् Bइनयक् ंउनिचिपलित्य्"
   },
   {
     "id": 725,
     "name_en": "Navadurga Rural Municipality",
     "district_id": 75,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "णवदुर्ग ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 726,
     "name_en": "Aalitaal Rural Municipality",
     "district_id": 75,
-    "ward_count": 8
+    "ward_count": 8,
+    "name_np": "आअलिताल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 727,
     "name_en": "Ganyapadhura Rural Municipality",
     "district_id": 75,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "ग़न्यपधुर ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 728,
     "name_en": "Bhageshwar Rural Municipality",
     "district_id": 75,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bहगेश्वर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 729,
     "name_en": "Ajaymeru Rural Municipality",
     "district_id": 75,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "आजय्मेरु ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 730,
     "name_en": "Amargadhi Municipality",
     "district_id": 75,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "आमर्गधि ंउनिचिपलित्य्"
   },
   {
     "id": 731,
     "name_en": "Parshuram Municipality",
     "district_id": 75,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "Pअर्शुरम् ंउनिचिपलित्य्"
   },
   {
     "id": 732,
     "name_en": "Bhimdatta Municipality",
     "district_id": 76,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "Bहिम्दत्त ंउनिचिपलित्य्"
   },
   {
     "id": 733,
     "name_en": "Punarbas Municipality",
     "district_id": 76,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "Pउनर्बस् ंउनिचिपलित्य्"
   },
   {
     "id": 734,
     "name_en": "Bedkot Municipality",
     "district_id": 76,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bएद्कोत् ंउनिचिपलित्य्"
   },
   {
     "id": 735,
     "name_en": "Mahakali Municipality",
     "district_id": 76,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ंअहकलि ंउनिचिपलित्य्"
   },
   {
     "id": 736,
     "name_en": "Shuklaphanta Municipality",
     "district_id": 76,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "षुक्लफन्त ंउनिचिपलित्य्"
   },
   {
     "id": 737,
     "name_en": "Belauri Municipality",
     "district_id": 76,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "Bएलौरि ंउनिचिपलित्य्"
   },
   {
     "id": 738,
     "name_en": "Krishnapur Municipality",
     "district_id": 76,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़्रिश्नपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 739,
     "name_en": "Laljhadi Rural Municipality",
     "district_id": 76,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "ळल्झदि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 740,
     "name_en": "Beldandi Rural Municipality",
     "district_id": 76,
-    "ward_count": 5
+    "ward_count": 5,
+    "name_np": "Bएल्दन्दि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 741,
     "name_en": "Janaki Rural Municipality",
     "district_id": 77,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ज़नकि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 742,
     "name_en": "Kailari Rural Municipality",
     "district_id": 77,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "ख़ैलरि ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 743,
     "name_en": "Joshipur Rural Municipality",
     "district_id": 77,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ज़ोशिपुर् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 744,
     "name_en": "Bardagoriya Rural Municipality",
     "district_id": 77,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "Bअर्दगोरिय ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 745,
     "name_en": "Mohanyal Rural Municipality",
     "district_id": 77,
-    "ward_count": 7
+    "ward_count": 7,
+    "name_np": "ंओहन्यल् ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 746,
     "name_en": "Chure Rural Municipality",
     "district_id": 77,
-    "ward_count": 6
+    "ward_count": 6,
+    "name_np": "छुरे ऱुरल् ंउनिचिपलित्य्"
   },
   {
     "id": 747,
     "name_en": "Tikapur Municipality",
     "district_id": 77,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "टिकपुर् ंउनिचिपलित्य्"
   },
   {
     "id": 748,
     "name_en": "Ghodaghodi Municipality",
     "district_id": 77,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ग़्होदघोदि ंउनिचिपलित्य्"
   },
   {
     "id": 749,
     "name_en": "Lamkichuha Municipality",
     "district_id": 77,
-    "ward_count": 10
+    "ward_count": 10,
+    "name_np": "ळम्किचुह ंउनिचिपलित्य्"
   },
   {
     "id": 750,
     "name_en": "Bhajni Municipality",
     "district_id": 77,
-    "ward_count": 9
+    "ward_count": 9,
+    "name_np": "Bहज्नि ंउनिचिपलित्य्"
   },
   {
     "id": 751,
     "name_en": "Godawari Municipality",
     "district_id": 77,
-    "ward_count": 12
+    "ward_count": 12,
+    "name_np": "ग़ोदवरि ंउनिचिपलित्य्"
   },
   {
     "id": 752,
     "name_en": "Gauriganga Municipality",
     "district_id": 77,
-    "ward_count": 11
+    "ward_count": 11,
+    "name_np": "ग़ौरिगन्ग ंउनिचिपलित्य्"
   },
   {
     "id": 753,
     "name_en": "Dhangadhi Sub-Metropolitan City",
     "district_id": 77,
-    "ward_count": 19
+    "ward_count": 19,
+    "name_np": "ढन्गधि षुब्-ंएत्रोपोलितन् छित्य्"
   }
 ]
